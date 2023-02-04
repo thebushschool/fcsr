@@ -1,4 +1,4 @@
-## Workshops repository for projects in the Bush Astronomy classroom
+## Workshops repository for projects in the Fundamentals of Computing classroom
 
 Project|Status|Topic Description
 :---|:---|:---
