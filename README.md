@@ -1,4 +1,4 @@
-## Workshops repository for projects in the Fundamentals of Computing classroom
+## Projects repository for the Fundamentals of Computing classroom
 
 Project|Status|Topic Description
 :---|:---|:---
