@@ -8,7 +8,7 @@ Project|Status|Topic Description
 3|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
 4|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
 5|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
-6|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">TBD</a>
+6|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr/projects/game_of_life" target="_blank">Game of Life</a>
 7|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">TBD</a>
 8|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">TBD</a>
 9|🟠 PROJECT|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">TBD</a>
