@@ -32,17 +32,19 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```fcsr``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```fcsrchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, please email me at chandru.narayan@bush.edu, I will reset it.
 
-## [Login to Bush JupyterHub here to validate](https://bushastrolab.com/hub/login)
+## ***[Login to Bush JupyterHub here to validate](https://bushastrolab.com/hub/login)***
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
-The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, inside JupyterLab **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  Please click on the "zeroth" project link below to get started!
+The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, inside JupyterLab **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  
 
 When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials. 
 
 All Project submissions will be made to JupyterHub as Jupyter Notebooks or other media such as Google Sheets, Video etc. Feedback on your submissions will be given on the Jupyter Notebook itself. 
 
 All assignments for Projects and classwork etc. will be made on the Bush Portal and will be due on the date specified there. Grades for each project will also be assigned on the Bush Portal.
+
+Please click on the "zeroth" project link below to get started on your assigned project!
 
 ## Projects repository for the Fundamentals of Computing classroom
 
