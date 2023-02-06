@@ -50,7 +50,7 @@ Please click on the "zeroth" project link below to get started on your assigned 
 
 Project|Status|Topic Description
 :---|:---|:---
-0| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">Course Introduction</a>
+0| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
 1| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
 2| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Matplotlib</a>
 3| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI, Powers of 10</a>
