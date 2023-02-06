@@ -1,1 +1,1 @@
-## README
+## [Access this digital notebook for the Fundamentals of Computng Course Introduction](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_fcsr%2FFCSR_Intro.ipynb?reset)
