@@ -50,15 +50,16 @@ Please click on the "zeroth" project link below to get started on your assigned 
 
 Project|Status|Topic Description
 :---|:---|:---
-0| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
-1| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Matplotlib</a>
-2| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI, Powers of 10</a>
-3| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
-4| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
-5| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
-6| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/game_of_life" target="_blank">Game of Life</a>
-7| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-8| 🟠 TBA FINAL PROJECT OPTION 1|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">rPI Spectroscope</a>
-9| 🟠 TBA FINAL PROJECT OPTION 2|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_weather" target="_blank">rPI Weather Station</a>
-10|🟠 TBA FINAL PROJECT OPTION 3|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">rPI Self Driving Car</a>
+0| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">Course Introduction</a>
+1| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
+2| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Matplotlib</a>
+3| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI, Powers of 10</a>
+4| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
+5| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
+6| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
+7| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/game_of_life" target="_blank">Game of Life</a>
+8| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
+9| 🟠 TBA FINAL PROJECT OPTION 1|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">rPI Spectroscope</a>
+10| 🟠 TBA FINAL PROJECT OPTION 2|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_weather" target="_blank">rPI Weather Station</a>
+11| 🟠 TBA FINAL PROJECT OPTION 3|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">rPI Self Driving Car</a>
 
