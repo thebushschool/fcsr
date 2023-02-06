@@ -32,6 +32,8 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```fcsr``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```fcsrchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, please email me at chandru.narayan@bush.edu, I will reset it.
 
+## [Login to Bush JupyterHub here to validate](https://bushastrolab.com/hub/login)
+
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
 The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, inside JupyterLab **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  Please click on the "zeroth" project link below to get started!
