@@ -16,6 +16,4 @@
 | sidney.karjian@bush.edu   | https://trinket.io/courses/accept/215b54c1        |
 | teoman.champagne@bush.edu   | https://trinket.io/courses/accept/f218db2b        |
 | vincent.singer@bush.edu   | https://trinket.io/courses/accept/4f126857        |
-| bing.kawasaki@bush.edu   | https://trinket.io/courses/accept/49e4d246        |
-| bing.kawasaki@bush.edu   | https://trinket.io/courses/accept/49e4d246        |
-| bing.kawasaki@bush.edu   | https://trinket.io/courses/accept/49e4d246        |
+
