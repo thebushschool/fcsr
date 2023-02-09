@@ -1,5 +1,3 @@
-### 1. [Access this digital notebook for the Fundamentals of Computng Course Introduction](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_fcsr%2FFCSR_Intro.ipynb?reset)
-
 ### 1. FCSR: Learn Python with Turtles - Trinket Invitations below - Please click-in in using your specific invitation to complete this course!  Please sign-up using your Bush email shown below (unless you have already signed up with this email)
 
 | Student  email    | FCSR Learn Python with Turtles Invitation |
@@ -16,4 +14,7 @@
 | sidney.karjian@bush.edu   | https://trinket.io/courses/accept/215b54c1        |
 | teoman.champagne@bush.edu   | https://trinket.io/courses/accept/f218db2b        |
 | vincent.singer@bush.edu   | https://trinket.io/courses/accept/4f126857        |
+
+### 2. [Access this digital notebook for the Fundamentals of Computng Course Introduction](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_fcsr%2FFCSR_Intro.ipynb?reset)
+
 
