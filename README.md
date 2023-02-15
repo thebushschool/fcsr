@@ -53,7 +53,7 @@ Project|Status|Topic Description
 0| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
 1| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
 2| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Matplotlib</a>
-3| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI, Powers of 10</a>
+3| ✅ Assigned|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
 4| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
 5| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
 6| 🟠 TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
