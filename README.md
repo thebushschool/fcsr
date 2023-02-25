@@ -3,6 +3,8 @@
 
 ## Welcome to ***Fundametals of Computing*** (FCSR) course! 
 
+![rpi](rpi.png)
+
 This class is designed to teach the fundamentals and nature of modern computing, language of data, and design thinking. Students will learn current research, programming, data analysis, and visualization skills that any researcher might need during the course of a project while in college or your first career.
 
 We will be using state-of-the-art tools a typical scientist, artist or a humanities student might use to build a portfolio of accomplishments, publish your work to the internet, allowing others to find about you and your interests. Technologies include and not limited to Github and Markdown syntax, Google Sheets, Python, Jupyter Notebooks, Jupyterlab/Colab, Matplotlib and Physical computing using Raspberry PI. We will build basic to sophisticated applications of these skills to multiple engaging 2-week tactile and visual projects in STEAM (science, technology, engineering, art, and maths) subjects. The courseware is typically tactile (hands-on, experimental) and visual (graphical, mechanical) with focus on the mind-body connection of learning.
@@ -62,3 +64,14 @@ Project|Status|Topic Description
 10| TBA FINAL PROJECT OPTION 2|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_weather" target="_blank">rPI Weather Station</a>
 11| TBA FINAL PROJECT OPTION 3|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">rPI Self Driving Car</a>
 
+## Raspberry PI Project Teams
+
+Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
+:---|:---|:---|:---|:---
+1| TBD|Gus, Dagi|[bupi1](http://bupi1.bush.edu)|[http://bupi1:8081](http://bupi1.bush.edu:8081)
+2| TBD|Kai, Bing|[bupi2](http://bupi2.bush.edu)|[http://bupi2:8081](http://bupi2.bush.edu:8081)
+3| TBD|Max, Luke|[bupi3](http://bupi3.bush.edu)|[http://bupi3:8081](http://bupi3.bush.edu:8081)
+4| TBD|Asher, Teoman|[bupi4](http://bupi4.bush.edu)|[http://bupi4:8081](http://bupi4.bush.edu:8081)
+5| TBD|Alex, Declan|[bupi5](http://bupi5.bush.edu)|[http://bupi5:8081](http://bupi5.bush.edu:8081)
+6| TBD|Sidney, Maddie|[bupi7](http://bupi7.bush.edu)|[http://bupi7:8081](http://bupi7.bush.edu:8081)
+7| TBD|Vincent(TA)|[bupi8](http://bupi8.bush.edu)|[http://bupi8:8081](http://bupi8.bush.edu:8081)
