@@ -68,10 +68,10 @@ Project|Status|Topic Description
 
 Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
 :---|:---|:---|:---|:---
-1| TBD|Gus, Dagi|[bupi1](http://bupi1.bush.edu)|[http://bupi1:8081](http://bupi1.bush.edu:8081)
-2| TBD|Kai, Bing|[bupi2](http://bupi2.bush.edu)|[http://bupi2:8081](http://bupi2.bush.edu:8081)
-3| TBD|Max, Luke|[bupi3](http://bupi3.bush.edu)|[http://bupi3:8081](http://bupi3.bush.edu:8081)
-4| TBD|Asher, Teoman|[bupi4](http://bupi4.bush.edu)|[http://bupi4:8081](http://bupi4.bush.edu:8081)
-5| TBD|Alex, Declan|[bupi5](http://bupi5.bush.edu)|[http://bupi5:8081](http://bupi5.bush.edu:8081)
-6| TBD|Sidney, Maddie|[bupi7](http://bupi7.bush.edu)|[http://bupi7:8081](http://bupi7.bush.edu:8081)
-7| TBD|Vincent(TA)|[bupi8](http://bupi8.bush.edu)|[http://bupi8:8081](http://bupi8.bush.edu:8081)
+1| TBD|Gus, Dagi|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
+2| TBD|Kai, Bing|[bupi2](http://bupi2)|[http://bupi2:8081](http://bupi2:8081)
+3| TBD|Max, Luke|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
+4| TBD|Asher, Teoman|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+5| TBD|Alex, Declan|[bupi5](http://bupi5)|[http://bupi5:8081](http://bupi5:8081)
+6| TBD|Sidney, Maddie|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
+7| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupi8:8081)
