@@ -14,6 +14,8 @@ Do you see Confetti ??
 1. Wire-up your RPI following instructions in the First Steps PDF above
 
 1. Write the following lines of code in a new Jupyter Notebook named first_notebook.ipynb inside a code cell. Then Shift-Enter to run it. Do you see your LED blinking?
+
+
 ````
 import gpiozero
 import time
