@@ -11,12 +11,10 @@
 Do you see Confetti ?? 
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
-
 1. Run the sysinfo.ipynb from the /data folder to see output from your PI. If you do not see sysinfo.ipynb you can [download it here](sysinfo.ipynb) and then drag the file to your PI
 
 1. We will use the Multimeter to measure some voltages from the pins.
 ![multi](multimeter.png)
-
 1. Wire-up your RPI following instructions in the First Steps PDF above
 ![led1](circ1_led.png)
 ![led2](circ1_led_pic.png)
