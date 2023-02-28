@@ -2,7 +2,10 @@
 
 ### [Reference document for First Steps in Learning about Raspberry PI](Bush_RPI_PYTHON_ROBOTICS.pdf)
 
-### Step 1. Access Your Assigned Team Raspberry PI
+### Step 1. Geto to know and then Access Your Assigned Team Raspberry PI
+
+1. Let's examine your rPI host and get to know it. It has to be handled delicately at all times!. We will now power it up and wait for 2 minutes. We can then make sure it shows up on the Bush network!
+![rPI](rPI.png)
 
 1. [Click here to Verify access to Your Team Raspberry PI  (replace bupiX with your assigned  rPI hostname in the address bar of your browser)](http://bupiX.bush.edu)
 Do you see Confetti ?? 
@@ -11,7 +14,12 @@ Do you see Confetti ??
 
 1. Run the sysinfo.ipynb from the /data folder to see output from your PI. If you do not see sysinfo.ipynb you can [download it here](sysinfo.ipynb) and then drag the file to your PI
 
+1. We will use the Multimeter to measure some voltages from the pins.
+![multi](multimeter.png)
+
 1. Wire-up your RPI following instructions in the First Steps PDF above
+![led1](circ1_led.png)
+![led2](circ1_led_pic.png)
 
 1. Create a new Jupyter Notebook. Name it first_notebook.ipynb. Copy the following lines of code inside a code cell in your notebook. Then Shift-Enter to run it. Do you see your LED blinking?
 
@@ -35,7 +43,9 @@ while True:
 2. ChangeGPIO port to 18, re-wire the RPI and see if it works again
 
 ### Step 3. Button control
-1. Wire-up your RPI following instructions in the First Steps PDF above
+1. Wire-up your RPI following instructions in the First Steps PDF above. Install the button further down the breadboard so as not to intrfere with the led previosly installed
+![but1](circ2_button.png)
+![but2](circ2_button_pic.png)
 
 1. Create another Jupyter Notebook.  Name it button_test.ipynb. Copy the following lines of code inside a code cell in your notebook.
 
