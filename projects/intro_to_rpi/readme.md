@@ -89,5 +89,6 @@ while True:
 1. Modify code from previous step once again to accomplish the following - 
 
     * Press button - LED should Blink once with a 1 second gap, then twice with a 1 second gap, then 3 times with a 1 second gap, then 4 and 5 times in a similar fashion.
+    * Use a for loop to accomplish this!
     * Subsequent button presses should be ignored when the last sequence is happening. 
     * When sequence finishes, again look for button presses and start sequence all over again!
