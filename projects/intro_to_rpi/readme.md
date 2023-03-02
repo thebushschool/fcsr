@@ -19,7 +19,7 @@ Do you see Confetti ??
 ![led1](circ1_led.png)
 ![led2](circ1_led_pic.png)
 
-1. Create a new Jupyter Notebook. Name it first_notebook.ipynb. Copy the following lines of code inside a code cell in your notebook. Then Shift-Enter to run it. Do you see your LED blinking?
+1. Create a new Jupyter Notebook. Name it ```first_notebook.ipynb```. Copy the following lines of code inside a code cell in your notebook. Then Shift-Enter to run it. Do you see your LED blinking?
 
 
 ````
@@ -41,11 +41,11 @@ while True:
 2. ChangeGPIO port to 18, re-wire the RPI and see if it works again
 
 ### Step 3. Button control
-1. Wire-up your RPI following instructions in the First Steps PDF above. Install the button further down the breadboard so as not to intrfere with the led previosly installed
+1. Wire-up your RPI following instructions in the First Steps PDF above. Install the button further down the breadboard so as not to intrfere with the led previously installed
 ![but1](circ2_button.png)
 ![but2](circ2_button_pic.png)
 
-1. Create another Jupyter Notebook.  Name it button_test.ipynb. Copy the following lines of code inside a code cell in your notebook.
+1. Create another Jupyter Notebook.  Name it ```button_test.ipynb```. Copy the following lines of code inside a code cell in your notebook.
 
 ````
 # button pressed
@@ -55,19 +55,39 @@ from datetime import datetime
 
 GPIO.setmode(GPIO.BCM)
 
-pin = 21
-
-GPIO.setup(pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-
-def is_button_clicked(pin):
-    input_state = GPIO.input(pin)
-    current_time = datetime.now().strftime("%H:%M:%S")
-    if input_state == False:
-        print(f'Button Pressed LED on @ {current_time}')
+GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 while True:
-    is_button_clicked(pin)
-    time.sleep(0.2)
+    input_state = GPIO.input(21)
+    current_time = datetime.now().strftime("%H:%M:%S")
+    if input_state == False:
+        print(f'Button Pressed @ {current_time}')
+        time.sleep(0.2)
 
 ````
 
+### Step 4. Control LED via Button
+1. Create a 3rd Jupyter Notebook to accomplish this Step. Name it ```button_led.ipynb```
+
+1. Now we will attempt to combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
+
+    * Press it once - LED should turn On.
+    * Press it again - LED turns off.  
+    
+
+1.  Your challenge is to modify the code in Step 3 and add bits and pices of the code in Step 2 to make this happen.  There should be no wiring changes necessary.  Consult with your team member to see if you can accomplish this.  I will be there to help!
+
+1. Modify code once again to accomplish the following - 
+
+    * Press it once - LED should Blink.
+    * Press it again - LED turns off and doesn't blink.  
+
+### Step 4. Control the number of Blinks of the LED via Button
+
+1. Create a 4th Jupyter Notebook to accomplish this.  Name it ```loop_blink.ipynb```
+
+1. Modify code from previous step once again to accomplish the following - 
+
+    * Press button - LED should Blink once with a 1 second gap, then twice with a 1 second gap, then 3 times with a 1 second gap, then 4 and 5 times in a similar fashion.
+    * Subsequent button presses should be ignored when the last sequence is happening. 
+    * When sequence finishes, again look for button presses and start sequence all over again!
