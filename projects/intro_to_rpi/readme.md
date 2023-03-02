@@ -15,6 +15,8 @@ Do you see Confetti ??
 
 1. We will use the Multimeter to measure some voltages from the pins.
 ![multi](multimeter.png)
+
+1. Create a wiring diagram for the following. 
 1. Wire-up your RPI following instructions in the First Steps PDF above
 ![led1](circ1_led.png)
 ![led2](circ1_led_pic.png)
@@ -41,7 +43,8 @@ while True:
 2. ChangeGPIO port to 18, re-wire the RPI and see if it works again
 
 ### Step 3. Button control
-1. Wire-up your RPI following instructions in the First Steps PDF above. Install the button further down the breadboard so as not to intrfere with the led previously installed
+1. Create a wiring diagram for the following. 
+1. Then Wire-up your RPI following instructions in the First Steps PDF above. Install the button further down the breadboard so as not to intrfere with the led previously installed
 ![but1](circ2_button.png)
 ![but2](circ2_button_pic.png)
 
@@ -71,11 +74,15 @@ while True:
 
 1. Now we will attempt to combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
 
+1. Create a wiring diagram to accomplish this
+
     * Press it once - LED should turn On.
     * Press it again - LED turns off.  
     
 
 1.  Your challenge is to modify the code in Step 3 and add bits and pices of the code in Step 2 to make this happen.  There should be no wiring changes necessary.  Consult with your team member to see if you can accomplish this.  I will be there to help!
+
+1. Create a wiring diagram to accomplish this
 
 1. Modify code once again to accomplish the following - 
 
@@ -86,9 +93,26 @@ while True:
 
 1. Create a 4th Jupyter Notebook to accomplish this.  Name it ```loop_blink.ipynb```
 
+1. Create a wiring diagram to accomplish this
+
 1. Modify code from previous step once again to accomplish the following - 
 
     * Press button - LED should Blink once with a 1 second gap, then twice with a 1 second gap, then 3 times with a 1 second gap, then 4 and 5 times in a similar fashion.
     * Use a for loop to accomplish this!
     * Subsequent button presses should be ignored when the last sequence is happening. 
     * When sequence finishes, again look for button presses and start sequence all over again!
+
+### Step 5. Two-button control of 2 LED patterns
+
+1. Create a last Jupyter Notebook to accomplish this.  Name it ```two_button.ipynb```.
+
+1. Create a wiring diagram to accomplish this
+
+1. Here you will wire and create a jupyter notebook to yield 4 patterns using 2 LED ON-OFF states 
+
+    * button 1 OFF - 2 OFF : LED 1 & 2 ON are OFF 
+    * button 1 OFF - 2 ON : LED 1 OFF - 2 ON
+    * button 1 ON - 2 ON : LED 1 & 2 are ON
+    * button 1 ON - 2 OFF : LED ON - 2 OFF
+
+1. Use should use the if-elseif syntax to accomplish this
