@@ -51,21 +51,25 @@ while True:
 1. Create another Jupyter Notebook.  Name it ```button_test.ipynb```. Copy the following lines of code inside a code cell in your notebook.
 
 ````
-# button pressed
-import RPi.GPIO as GPIO
-import time
+from gpiozero import LED, Button
+from time import sleep
 from datetime import datetime
 
-GPIO.setmode(GPIO.BCM)
-
-GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+def pressed(button):
+    current_time = datetime.now()
+    print(f'button {button.pin.number} was pressed @ {current_time}')
+    
+ledpin = 4
+btnpin = 21
+led = LED(ledpin)
+button = Button(btnpin)
+button.when_pressed = pressed
 
 while True:
-    input_state = GPIO.input(21)
-    current_time = datetime.now().strftime("%H:%M:%S")
-    if input_state == False:
-        print(f'Button Pressed @ {current_time}')
-        time.sleep(0.2)
+    led.on()
+    sleep(0.5)
+    led.off()
+    sleep(0.5)
 
 ````
 
