@@ -10,19 +10,19 @@
 
 1. [Click here to Verify access to Your Team Raspberry PI  (replace bupiX with your assigned  rPI hostname in the address bar of your browser)](http://bupiX.bush.edu)
 
-    | :exclamation: :white_check_mark:  Do you see Confetti ??   |
+    | 🟠 ✅ Do you see Confetti ??   |
     |-----------------------------------------|
      
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
  
-    | :exclamation: :white_check_mark:  Do you see the JupyterLab hosted on your Raspberry PI ??   |
+    | 🟠 ✅ Do you see the JupyterLab hosted on your Raspberry PI ??   |
     |-----------------------------------------|
     
 
 1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
 
-    | :exclamation: :white_check_mark:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook ??   |
+    | 🟠 ✅ Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook ??   |
     |-----------------------------------------|
 
 
@@ -32,7 +32,7 @@
     ![multi](multimeter.png)
     ![multi](gpio.png)
 
-    | :exclamation: :white_check_mark:  Did you write voltages down on the ```dated``` page of your Workshop Notebook ??  |
+    | 🟠 ✅   Did you write voltages down on the ```dated``` page of your Workshop Notebook ??  |
     |-----------------------------------------|
     
 ### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
@@ -53,17 +53,17 @@
     ![restart](restart_runall.png)
 
 
-    | :exclamation: :white_check_mark:  Did you create, and upload your wiring diagram and verify the corresponding code in the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    | 🟠 ✅  :white_check_mark:  Did you create, and upload your wiring diagram and verify the corresponding code in the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
     |-----------------------------------------|
     
-    | :exclamation: :white_check_mark:  Do you see your LED blinking? If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    | 🟠 ✅  Do you see your LED blinking? If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
 
 ### Step 3. LED circuit
 1. Change sleep time to see if it works
 1. Change LED to GPIO port to 18. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Change the code correspondingly and and run to see if it works again!
 
-    | :exclamation: :white_check_mark:  This is practice only - you do not need to draw a wiring disgram diagram for this. Does it work ?  If not, please debug with your partner or call me or the TA to assist you  |
+    | 🟠 ✅  This is practice only - you do not need to draw a wiring disgram diagram for this. Does it work ?  If not, please debug with your partner or call me or the TA to assist you  |
     |-----------------------------------------|
     
 
@@ -76,7 +76,7 @@
     ![but1](circ2_button.png)
     ![but2](circ2_button_pic.png)
 
-    | :exclamation: :Note your drawing should now contain both the LED and the Button!  |
+    | 🟠 ✅ Note your drawing should now contain both the LED and the Button!  |
     |-----------------------------------------|
     
 
@@ -95,10 +95,10 @@
 1. Now you will see that both the LED and Button are functional, except they are NOT linked to each other.  This will be the purpose of the next step.
 
 
-    | :exclamation: :white_check_mark:  Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    | 🟠 ✅ Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
     |-----------------------------------------|
     
-    | :exclamation: :white_check_mark:  Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    | 🟠 ✅ Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
 
 
@@ -120,7 +120,7 @@
     ````
 1. Run the ```toggle_led.ipynb```
 
-    | :exclamation: :white_check_mark:  Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    | 🟠 ✅ Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
 
 
@@ -136,13 +136,13 @@
     ![wire3](photoname3.jpg)
     ````
 
-    | :exclamation: :white_check_mark:  Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    | 🟠 ✅ Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
     |-----------------------------------------|
 
 1. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
 
-    | :exclamation: :white_check_mark:  Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    | 🟠 ✅ Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
 
-    | :exclamation: :white_check_mark:  Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  Did your modifications work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    | 🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  Did your modifications work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
