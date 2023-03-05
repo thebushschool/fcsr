@@ -14,15 +14,15 @@
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
  
-    Do you see the JupyterLab coming from your Raspberry PI ??
+    | :exclamation: :white_check_mark:  Do you see the JupyterLab coming from your Raspberry PI ??   |
+    |-----------------------------------------|
+    
 
 1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
 
-    | :exclamation: :white_check_mark:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?   |
+    | :exclamation: :white_check_mark:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook ??   |
     |-----------------------------------------|
 
-
-    Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?
 
 1. We will use the Multimeter to measure some voltages from the pins. See the pin layout of your Raspberry PI Host below. Place the ```Black probe``` of your Multimeter on any ```GND ground``` pin of your rPI and the ```Red probe``` on the ```3V3 or 5V pin``` of your rPI. Write down the voltage youmeasure from the 3.3 volt pin and the 5 volt pin on your Raspberry PI on the previosly ```dated``` page of your Workshop Notebook. 
 
@@ -30,34 +30,31 @@
     ![multi](multimeter.png)
     ![multi](gpio.png)
 
-    Did you write voltages down on the ```dated``` page of your Workshop Notebook ??
+    | :exclamation: :white_check_mark:  Did you write voltages down on the ```dated``` page of your Workshop Notebook ??  |
+    |-----------------------------------------|
+    
+### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
 
-1. Create a wiring diagram for the following. 
-1. Wire-up your RPI following diagram below. Note LED +lead is connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
+1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag t```first_notebook.ipynb``` file to your laptop to the rPI's JupyterLab.  
+
+1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
+    ````
+    ![wire1](photoname.jpg)
+    ````
+1. Wire-up your RPI following your own hand-drawn diagram. Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
 
     ![led1](circ1_led.png)
     ![led2](circ1_led_pic.png)
 
-1. Create a new Jupyter Notebook. Name it ```first_notebook.ipynb```. Copy the following lines of code inside a code cell in your notebook. Then Shift-Enter to run it. Do you see your LED blinking?
+1. Now you are ready to Run the Jupyter Notebook ```first_notebook.ipynb```. Your notebook should like the image below. Click the red-circled button to Run your notebook.
+
+    ![restart](restart_runall.png)
 
 
-````
-# first led circuit
-from gpiozero import LED
-import time
+    | :exclamation: :white_check_mark:  Do you see your LED blinking? If not, please debug with your partner or call me or the TA to assist you  |
+    |-----------------------------------------|
 
-# LED setup
-gpio_ledpin = 4
-led = LED(gpio_ledpin)
-
-while True:
-    led.on()
-    time.sleep(1)
-    led.off()
-    time.sleep(1)
-````
-
-### Step 2. LED circuit
+### Step 3. LED circuit
 1. Change sleep time to see if it works
 2. Change LED to GPIO port to 18. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Change the code correspondingly and and run to see if it works again!
 
