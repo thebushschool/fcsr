@@ -11,7 +11,7 @@
 1. [Click here to Verify access to Your Team Raspberry PI  (replace bupiX with your assigned  rPI hostname in the address bar of your browser)](http://bupiX.bush.edu)
 
     | 🟠 ✅ Do you see Confetti ??   |
-    |-----------------------------------------|
+    |:-------------------------------:|
      
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
