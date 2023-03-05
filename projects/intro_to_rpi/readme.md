@@ -5,21 +5,38 @@
 ### Step 1. Geto to know and then Access Your Assigned Team Raspberry PI
 
 1. Let's examine your rPI host and get to know it. It has to be handled delicately at all times!. We will now power it up and wait for 2 minutes. We can then make sure it shows up on the Bush network!
-![rPI](rPI.png)
+
+    ![rPI](rPI.png)
 
 1. [Click here to Verify access to Your Team Raspberry PI  (replace bupiX with your assigned  rPI hostname in the address bar of your browser)](http://bupiX.bush.edu)
-Do you see Confetti ?? 
+
+    Do you see Confetti ?? 
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
-1. Run the sysinfo.ipynb from the /data folder to see output from your PI. If you do not see sysinfo.ipynb you can [download it here](sysinfo.ipynb) and then drag the file to your PI
+ 
+    Do you see the JupyterLab coming from your Raspberry PI ??
 
-1. We will use the Multimeter to measure some voltages from the pins.
-![multi](multimeter.png)
+1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
+
+    | :exclamation:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?   |
+    |-----------------------------------------|
+
+
+    Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?
+
+1. We will use the Multimeter to measure some voltages from the pins. See the pin layout of your Raspberry PI Host below. Place the ```Black probe``` of your Multimeter on any ```GND ground``` pin of your rPI and the ```Red probe``` on the ```3V3 or 5V pin``` of your rPI. Write down the voltage youmeasure from the 3.3 volt pin and the 5 volt pin on your Raspberry PI on the previosly ```dated``` page of your Workshop Notebook. 
+
+
+    ![multi](multimeter.png)
+    ![multi](gpio.png)
+
+    Did you write voltages down on the ```dated``` page of your Workshop Notebook ??
 
 1. Create a wiring diagram for the following. 
 1. Wire-up your RPI following diagram below. Note LED +lead is connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
-![led1](circ1_led.png)
-![led2](circ1_led_pic.png)
+
+    ![led1](circ1_led.png)
+    ![led2](circ1_led_pic.png)
 
 1. Create a new Jupyter Notebook. Name it ```first_notebook.ipynb```. Copy the following lines of code inside a code cell in your notebook. Then Shift-Enter to run it. Do you see your LED blinking?
 
