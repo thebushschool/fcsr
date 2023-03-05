@@ -10,11 +10,13 @@
 
 1. [Click here to Verify access to Your Team Raspberry PI  (replace bupiX with your assigned  rPI hostname in the address bar of your browser)](http://bupiX.bush.edu)
 
-    Do you see Confetti ?? 
+    | :exclamation: :white_check_mark:  Do you see Confetti ??   |
+    |-----------------------------------------|
+     
 
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
  
-    | :exclamation: :white_check_mark:  Do you see the JupyterLab coming from your Raspberry PI ??   |
+    | :exclamation: :white_check_mark:  Do you see the JupyterLab hosted on your Raspberry PI ??   |
     |-----------------------------------------|
     
 
@@ -67,7 +69,7 @@
 
 ### Step 4. Button control - Adding a Button to the circuit
 
-1. Download the ```button_test.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag tthe ```button_test.ipynb``` file to your laptop to the rPI's JupyterLab.  
+1. Download the ```button_test.ipynb``` by [right-clicking this link and select 'Save Link As'](button_test.ipynb) and then drag the ```button_test.ipynb``` file to your laptop to the rPI's JupyterLab.  
 
 1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. In this circuit we are changing the LED to GPIO port back to GPIO4. Show the button or LED in your drawing further down the breadboard so as not to interfere with the led previously installed.  Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Show the button connected to GPIO17 and the other to the ground rail.  
 
@@ -77,8 +79,6 @@
     | :exclamation: :Note your drawing should now contain both the LED and the Button!  |
     |-----------------------------------------|
     
-
-
 
 1. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
 
@@ -103,45 +103,14 @@
 
 
 ### Step 5. Control LED via Button
-1. Create a 3rd Jupyter Notebook to accomplish this Step. Name it ```toggle_led.ipynb```
 
-1. Now we will attempt to combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
+1. To create this game we will combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
 
-1. Create a wiring diagram to accomplish this
+1. There are NO wiring changes needed. You can use the same wiring diagram and breadboard setup as before.
 
-    * Press it once - LED should turn On.
-    * Press it again - LED turns off.  
+1. Download the ```toggle_led.ipynb``` by [right-clicking this link and select 'Save Link As'](toggle_led.ipynb) and then drag the ```toggle_led.ipynb``` file to your laptop to the rPI's JupyterLab.
 
-1. We will start by making a modification to the function by adding a global ```button_state``` variable which will toggle between True and False depending on the button pushes. Add the following code to ```toggle_led.ipynb```
-    ````
-    from gpiozero import LED, Button
-    from time import sleep
-    from datetime import datetime
-
-    # LED setup
-    ledpin = 4
-    led = LED(ledpin)
-
-    # BUTTON setup
-    def pressed(button):
-        global button_state
-        current_time = datetime.now()
-        print(f'button {button.pin.number} was pressed @ {current_time}')
-        button_state = not button_state
-
-    btnpin = 21
-    button = Button(btnpin)
-    button.when_pressed = pressed
-    button_state = True
-
-    # MAIN loop
-    while True:
-        led.on()
-        sleep(0.5)
-        led.off()
-        sleep(0.5)
-    ````
-1. Your challenge is to modify inside the ```MAIN loop``` block underneath the ```While True:``` and add to make it work.
+1. Open the ```toggle_led.ipynb``` by double-clicking on it in JupyterLab. Your challenge is to modify inside the ```MAIN loop``` block underneath the ```While True:``` and add to make it work.
 
     ````
     if button_state:
@@ -149,55 +118,31 @@
     else:
         # some code ..
     ````
+1. Run the ```toggle_led.ipynb```
 
-    Consult with your team member to see if you can accomplish this.  I will be there to help!
+    | :exclamation: :white_check_mark:  Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    |-----------------------------------------|
 
-1. Create a wiring diagram to accomplish this
 
 ### Step 6. Finally let us create a Button Reaction Game!
 
-1. Create a last Jupyter Notebook to accomplish this.  Name it ```reaction_game.ipynb```.
+1. Download the ```reaction_game.ipynb``` by [right-clicking this link and select 'Save Link As'](reaction_game.ipynb) and then drag the ```reaction_game.ipynb``` file to your laptop to the rPI's JupyterLab.
 
-1. Copy the code below, your job is to wire the circuit according to the the code!
+1. You will need to add a second button as shown in the code you brought in. Create a wiring diagram based on the code that you see.
+
+1. Create a wiring diagram including you second button.  In this diagram, there needs to be 1 LED and 2 Buttons wired up. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
 
     ````
-    from gpiozero import Button, LED
-    from time import sleep
-    import random
-
-    led = LED(4)
-
-    player_1 = Button(21)
-    player_2 = Button(14)
-
-    player_1_score = 0
-    player_2_score = 0
-
-    for i in range(5):
-        time = random.uniform(5, 10)
-        sleep(time)
-        led.on()    
-        while True:
-            if player_1.is_pressed:
-                print(f'Player 1 wins round {i+1}')
-                player_1_score += 1
-                break
-            if player_2.is_pressed:
-                print(f'Player 2 wins round {i+1}')
-                player_2_score += 1
-                break
-        led.off()
-
-    if player_1_score > player_2_score:
-        winner = 'Player 1'
-    else:
-        winner = 'Player 2'
-        
-    maxvalue = max(player_1_score, player_2_score)
-    minvalue = min(player_1_score, player_2_score)
-
-    print(f'{winner} wins the game {maxvalue} to {minvalue}!')
-    print('gamed ended')
+    ![wire3](photoname3.jpg)
     ````
+
+    | :exclamation: :white_check_mark:  Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    |-----------------------------------------|
 
 1. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
+
+    | :exclamation: :white_check_mark:  Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    |-----------------------------------------|
+
+    | :exclamation: :white_check_mark:  Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  Did your modifications work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    |-----------------------------------------|
