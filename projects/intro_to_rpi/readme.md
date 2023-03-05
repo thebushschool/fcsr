@@ -18,7 +18,7 @@
 
 1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
 
-    | :exclamation:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?   |
+    | :exclamation: :white_check_mark:  Did you write down the your RPI's sysinfo results in a ```dated``` page of your Workshop Notebook?   |
     |-----------------------------------------|
 
 
