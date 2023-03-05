@@ -35,11 +35,11 @@
     
 ### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
 
-1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag t```first_notebook.ipynb``` file to your laptop to the rPI's JupyterLab.  
+1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag the ```first_notebook.ipynb``` file to your laptop to the rPI's JupyterLab.  
 
 1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
     ````
-    ![wire1](photoname.jpg)
+    ![wire1](photoname1.jpg)
     ````
 1. Wire-up your RPI following your own hand-drawn diagram. Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
 
@@ -56,49 +56,42 @@
 
 ### Step 3. LED circuit
 1. Change sleep time to see if it works
-2. Change LED to GPIO port to 18. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Change the code correspondingly and and run to see if it works again!
+1. Change LED to GPIO port to 18. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Change the code correspondingly and and run to see if it works again!
 
-### Step 3. Button control
-1. Now we are going to add a Button to the circuit.
-1. Create a wiring diagram for the following. 
-1. Change LED to GPIO port back to GPIO4. Install the button further down the breadboard so as not to interfere with the led previously installed.
-![but1](circ2_button.png)
-![but2](circ2_button_pic.png)
+    | :exclamation: :white_check_mark:  This is practice only - you do not need to draw a wiring disgram diagram for this. Does it work ?  If not, please debug with your partner or call me or the TA to assist you  |
+    |-----------------------------------------|
+    
 
-1.  Connect one leg of the button to GPIO17 and the other to the ground rail.
+### Step 4. Button control - Adding a Button to the circuit
 
-1. Create another Jupyter Notebook.  Name it ```button_test.ipynb```. Copy the following lines of code inside a code cell in your notebook. Ensure that the code correctly reflects the GPIO pins you used for the LED and Button.
+1. Download the ```button_test.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag tthe ```button_test.ipynb``` file to your laptop to the rPI's JupyterLab.  
+
+1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. In this circuit we are changing the LED to GPIO port back to GPIO4. Show the button or LED in your drawing further down the breadboard so as not to interfere with the led previously installed.  Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Show the button connected to GPIO17 and the other to the ground rail.  
+
+    ![but1](circ2_button.png)
+    ![but2](circ2_button_pic.png)
+
+    | :exclamation: :Note your drawing should now contain both the LED and the Button!  |
+    |-----------------------------------------|
+    
+
+
+
+1. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
+
+    ````
+    ![wire2](photoname2.jpg)
+    ````
+
+1. Wire-up your RPI following your own hand-drawn diagram above. Ensure that the code in ```button_test.ipynb``` ***LED setup*** block and the ***Button setup*** block correctly reflects the GPIO pins you used for the LED and Button.
 
 1. Note that we have added a callback function for the button called ```pressed``` in the ```BUTTON setup ``` block. We will walkthrough this code together.  The ```MAIN loop``` block remains the same as before, although the LED is blinking faster!
 
-````
-from gpiozero import LED, Button
-from time import sleep
-from datetime import datetime
+1. Run the ```button_test.ipynb``` notebook.  Your notebook should like the image below. Click the red-circled button to Run your notebook.
 
-# LED setup
-gpio_ledpin = 4
-led = LED(gpio_ledpin)
-
-# BUTTON setup
-def pressed(button):
-    current_time = datetime.now()
-    print(f'button {button.pin.number} was pressed @ {current_time}')
+    ![restart](restart_runall.png)
     
-gpio_btnpin = 17
-button = Button(gpio_btnpin)
-button.when_pressed = pressed
-
-# MAIN loop
-while True:
-    led.on()
-    sleep(0.5)
-    led.off()
-    sleep(0.5)
-
-````
-
-1. Run the ```button_test.ipynb``` notebook.  Now you will see that both the LED and Button are functional, except they are NOT linked to each other.  This will be the purpose of the next step.
+1. Now you will see that both the LED and Button are functional, except they are NOT linked to each other.  This will be the purpose of the next step.
 
 ### Step 4. Control LED via Button
 1. Create a 3rd Jupyter Notebook to accomplish this Step. Name it ```toggle_led.ipynb```
