@@ -51,7 +51,10 @@
     ![restart](restart_runall.png)
 
 
-    | :exclamation: :white_check_mark:  Do you see your LED blinking? If not, please debug with your partner or call me or the TA to assist you  |
+    | :exclamation: :white_check_mark:  Did you create, and upload your wiring diagram and verify the corresponding code in the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    |-----------------------------------------|
+    
+    | :exclamation: :white_check_mark:  Do you see your LED blinking? If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
     |-----------------------------------------|
 
 ### Step 3. LED circuit
@@ -87,13 +90,19 @@
 
 1. Note that we have added a callback function for the button called ```pressed``` in the ```BUTTON setup ``` block. We will walkthrough this code together.  The ```MAIN loop``` block remains the same as before, although the LED is blinking faster!
 
-1. Run the ```button_test.ipynb``` notebook.  Your notebook should like the image below. Click the red-circled button to Run your notebook.
-
-    ![restart](restart_runall.png)
+1. Run the ```button_test.ipynb``` notebook.  Your notebook should like the image below. Click the restart & runall button as before to Run your notebook.
     
 1. Now you will see that both the LED and Button are functional, except they are NOT linked to each other.  This will be the purpose of the next step.
 
-### Step 4. Control LED via Button
+
+    | :exclamation: :white_check_mark:  Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!  |
+    |-----------------------------------------|
+    
+    | :exclamation: :white_check_mark:  Does it work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you  |
+    |-----------------------------------------|
+
+
+### Step 5. Control LED via Button
 1. Create a 3rd Jupyter Notebook to accomplish this Step. Name it ```toggle_led.ipynb```
 
 1. Now we will attempt to combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
@@ -145,7 +154,7 @@
 
 1. Create a wiring diagram to accomplish this
 
-### Step 5. Finally let us create a Button Reaction Game!
+### Step 6. Finally let us create a Button Reaction Game!
 
 1. Create a last Jupyter Notebook to accomplish this.  Name it ```reaction_game.ipynb```.
 
