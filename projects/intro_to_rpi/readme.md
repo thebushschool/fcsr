@@ -145,33 +145,43 @@ while True:
 1. Copy the code below, your job is to wire the circuit according to the the code!
 
     ````
-    from gpiozero import LED, Button
+    from gpiozero import Button, LED
     from time import sleep
-    from datetime import datetime
+    import random
 
-    # led setup
-    ledpin = 4
-    led = LED(ledpin)
+    led = LED(4)
 
-    # Button setup
-    def pressed(button):
-        global button_state
-        current_time = datetime.now()
-        print(f'button {button.pin.number} was pressed @ {current_time}')
-        button_state = not button_state
+    player_1 = Button(21)
+    player_2 = Button(14)
 
-    btnpin = 21
-    button = Button(btnpin)
-    button.when_pressed = pressed
-    button_state = True
+    player_1_score = 0
+    player_2_score = 0
 
-    # main loop
-    while True:
-        if button_state:
-            led.on()
-        else:
-            led.off()
-        sleep(0.5)
+    for i in range(5):
+        time = random.uniform(5, 10)
+        sleep(time)
+        led.on()    
+        while True:
+            if player_1.is_pressed:
+                print(f'Player 1 wins round {i+1}')
+                player_1_score += 1
+                break
+            if player_2.is_pressed:
+                print(f'Player 2 wins round {i+1}')
+                player_2_score += 1
+                break
+        led.off()
+
+    if player_1_score > player_2_score:
+        winner = 'Player 1'
+    else:
+        winner = 'Player 2'
         
+    maxvalue = max(player_1_score, player_2_score)
+    minvalue = min(player_1_score, player_2_score)
+
+    print(f'{winner} wins the game {maxvalue} to {minvalue}!')
+    print('gamed ended')
     ````
+
 1. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
