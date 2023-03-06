@@ -93,7 +93,7 @@
 
 ### Step 5. Control LED via Button
 
-1. To create this game we will combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
+1. To create this notebook we will combine the Button capability to turn on or turn off the LED. This means that the button needs to behave like a toggle switch. 
 
 1. There are NO wiring changes needed. You can use the same wiring diagram and breadboard setup as before.
 
@@ -114,7 +114,7 @@
 
 ### Step 6. Finally let us create a Button Reaction Game!
 
-1. Download the ```reaction_game.ipynb``` by [right-clicking this link and select 'Save Link As'](reaction_game.ipynb) and then drag the ```reaction_game.ipynb``` file to your laptop to the rPI's JupyterLab.
+1. To create this game, we will download the ```reaction_game.ipynb``` by [right-clicking this link and select 'Save Link As'](reaction_game.ipynb) and then drag the ```reaction_game.ipynb``` file to your laptop to the rPI's JupyterLab.
 
 1. You will need to add a second button as shown in the code you brought in. Create a wiring diagram based on the code that you see.
 
