@@ -2,7 +2,7 @@
 
 ### [Reference document for First Steps in Learning about Raspberry PI](Bush_RPI_PYTHON_ROBOTICS.pdf)
 
-### Step 1. Geto to know and then Access Your Assigned Team Raspberry PI
+### Step 1. Get to know and then Access Your Assigned Team Raspberry PI
 
 1. Let's examine your rPI host and get to know it. It has to be handled delicately at all times!. We will now power it up and wait for 2 minutes. We can then make sure it shows up on the Bush network!
 
