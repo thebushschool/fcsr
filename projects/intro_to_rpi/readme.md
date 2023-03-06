@@ -126,7 +126,7 @@
 
     🟠 ✅ Did you make a new wiring diagram and make changes to the Jupyter Notebook ??  If not, please do this as it is part of your assessment!
 
-1. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
+1. Add the second Button to your Breadboard. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
 
     🟠 ✅ Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you
 
