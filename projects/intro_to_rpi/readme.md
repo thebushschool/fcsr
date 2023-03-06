@@ -130,4 +130,6 @@
 
     🟠 ✅ Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you
 
-    🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  Did your modifications work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you
+    🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  
+    
+    🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.
