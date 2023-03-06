@@ -22,7 +22,7 @@
     🟠 ✅ Did you write down the your RPI's sysinfo results in a ```dated``` 
 
 
-1. We will use the Multimeter to measure some voltages from the pins. See the pin layout of your Raspberry PI Host below. Place the ```Black probe``` of your Multimeter on any ```GND ground``` pin of your rPI and the ```Red probe``` on the ```3V3 or 5V pin``` of your rPI. Write down the voltage youmeasure from the 3.3 volt pin and the 5 volt pin on your Raspberry PI on the previosly ```dated``` page of your Workshop Notebook. 
+1. We will use the Multimeter to measure some voltages from the pins. See the pin layout of your Raspberry PI Host below. Place the ```Black probe``` of your Multimeter on any ```GND ground``` pin of your rPI and the ```Red probe``` on the ```3V3 or 5V pin``` of your rPI. Write down the voltage you measure from the 3.3 volt pin and the 5 volt pin on your Raspberry PI on the previously ```dated``` page of your Workshop Notebook. 
 
 
     ![multi](multimeter.png)
