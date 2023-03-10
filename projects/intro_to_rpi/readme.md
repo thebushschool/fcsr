@@ -133,16 +133,13 @@
     🟠 ✅ Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you
 
 
-    🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners). 
+1. Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners). 
     
     
     🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.
     
     
-    🟠 ✅ Modify the game to code to handle a fixed number of button presses. If a player exceeds this number, they other player should be immediately declared the winner and the program should exit. To exit the program, you will use the exit() method which will have to imported fron the 'sys' library. You will need an import statement for that.  You will also need to add counters for each button click for each player for accounting. 
+1. Modify the game to code to handle a fixed number of button presses. If a player exceeds this number, they other player should be immediately declared the winner and the program should exit. To exit the program, you will use the exit() method which will have to imported fron the 'sys' library. You will need an import statement for that.  You will also need to add counters for each button click for each player for accounting.   
     
     
-    🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.    
-    
-    
-    🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.
+    🟠 ✅ Did your modifications work ?  The game should immediately tewrminate if a player exceeds the allowed amount of button presses.
