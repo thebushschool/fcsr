@@ -100,7 +100,7 @@
 
 1. Download the ```toggle_led.ipynb``` by [right-clicking this link and select 'Save Link As'](toggle_led.ipynb) and then drag the ```toggle_led.ipynb``` file to your laptop to the rPI's JupyterLab.
 
-1. Open the ```toggle_led.ipynb``` by double-clicking on it in JupyterLab. Your challenge is to modify inside the ```MAIN loop``` block underneath the ```While True:``` and add to make it work.
+1. Open the ```toggle_led.ipynb``` by double-clicking on it in JupyterLab. Your challenge is to modify inside the ```MAIN loop``` block underneath the ```While True:``` and add to make it work. Note the ```global``` keyword before the ```button_state``` variable in the function ```pressed()```.  Why is that necessary?
 
     ````
     if button_state:
