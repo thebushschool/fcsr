@@ -51,6 +51,7 @@
 
     🟠 ✅  Did you create, and upload your wiring diagram and verify the corresponding code in the Jupyter Notebook ??  If not, please do this as it is part of your assessment!
     
+    
     🟠 ✅  Do you see your LED blinking? If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the 
 
 ### Step 3. LED circuit
@@ -128,12 +129,20 @@
 
 1. Add the second Button to your Breadboard. Once circuit is wired according to the code, two of you can play this game to see who has the fastest finger in the West! Seek help if you cannot get it to work.
 
+
     🟠 ✅ Did the game work ?  If not, please debug with your partner by looking at the wiring diagram, and code.  If this fails, call me or the TA to assist you
 
-    🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners).  
+
+    🟠 ✅ Modify the game to code to handle an EVEN number of rounds (Game could be tied in this case and there should be no winners). 
+    
     
     🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.
+    
+    
     🟠 ✅ Modify the game to code to handle a fixed number of button presses. If a player exceeds this number, they other player should be immediately declared the winner and the program should exit. To exit the program, you will use the exit() method which will have to imported fron the 'sys' library. You will need an import statement for that.  You will also need to add counters for each button click for each player for accounting. 
+    
+    
     🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.    
+    
     
     🟠 ✅ Did your modifications work ?  The game should still work if there is an even number of rounds and should declare a Tie and no winners.
