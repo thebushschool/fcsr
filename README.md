@@ -54,24 +54,23 @@ Project|Status|Topic Description
 :---|:---|:---
 0| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
 1| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
-2| 🟠 IN_WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
-3| 🟠 IN_WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
-4| 🟠 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-5| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
-6| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
-7| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
-8| TBA FINAL PROJECT OPTION 1|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">rPI Spectroscope</a>
-9| TBA FINAL PROJECT OPTION 2|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_weather" target="_blank">rPI Weather Station</a>
+2| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
+3| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
+4| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
+5| 🟠 IN_WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
+6| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board and Normal Distributions</a>
+7| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/pascals_triangle" target="_blank">Pascal's Trangle & Fibonacci Numbers</a>
+8| TBA|<a href="https://chandrunarayan.github.io/fcsr/projects/markovs_chain" target="_blank">State Machines & Markov's Chain</a>
+9| TBA FINAL PROJECT OPTION 1|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">rPI Spectroscope</a>
+10| TBA FINAL PROJECT OPTION 2|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_weather" target="_blank">rPI Weather Station</a>
 10| TBA FINAL PROJECT OPTION 3|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">rPI Self Driving Car</a>
 
 ## Raspberry PI Project Teams
 
 Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
 :---|:---|:---|:---|:---
-1| TBD|Gus, Dagi|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| TBD|Kai, Bing|[bupi2](http://bupi2)|[http://bupi2:8081](http://bupi2:8081)
-3| TBD|Max, Luke|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
-4| TBD|Asher, Teoman|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
-5| TBD|Alex, Declan|[bupi5](http://bupi5)|[http://bupi5:8081](http://bupi5:8081)
-6| TBD|Sidney, Maddie|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
-7| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupi8:8081)
+1| TBD|Bing, Gus, Kai|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupiX:8081)
+3| TBD|Max, Luke, Dagi|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupiX:8081)
+4| TBD|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupiX:8081)
+6| TBD|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupiX:8081)
+7| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupiX:8081)
