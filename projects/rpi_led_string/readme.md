@@ -63,6 +63,12 @@ Pictures are worth a thousand words, so I am not going to write a thousand words
 
 1. Run the Jupyter Notebook ```neopixel_testing.ipynb``` ***CELL BY CELL** by hitting ```Shift-Enter```.  Wait at each cell for a few seconds to see if it executed properly.  
 
+1. You might benefit from printing out multiple copies of [this table of pixel coordinates](pixel_coordinates.md) for designing your patterns.  Once you have designed your pattern, please upload that to the ```neopixel_testing.ipynb``` notebook.
+
+1. Here is an [advanced example of neopixel animations](neopixel_advanced_testing.ipynb) that you can use to complete this project.
+
+    🟠 ✅  Did you hand-draw your led patterns and upload to the ```neopixel_testing.ipynb``` notebook?.
+    
     🟠 ✅  ***If you see errors STOP and debug***. Do not proceed without fixing them.
 
     🟠 ✅  Your job is to get the LED matrix to display the test patterns
