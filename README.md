@@ -69,8 +69,8 @@ Project|Status|Topic Description
 
 Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
 :---|:---|:---|:---|:---
-1| TBD|Bing, Gus, Kai|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupiX:8081)
-3| TBD|Max, Luke, Dagi|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupiX:8081)
-4| TBD|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupiX:8081)
-6| TBD|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupiX:8081)
-7| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupiX:8081)
+1| TBD|Bing, Gus, Kai|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
+3| TBD|Max, Luke, Dagi|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
+4| TBD|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+6| TBD|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
+7| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupi8:8081)
