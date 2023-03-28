@@ -60,7 +60,7 @@ Project|Status|Topic Description
 5| ✅ DONEK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
 6| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
 7| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
-8| 🤖 Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
+8| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
 9| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a Spectroscope and Capture Spectra with Python</a>
 10| 🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based with the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
 
