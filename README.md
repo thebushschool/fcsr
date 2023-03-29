@@ -50,20 +50,20 @@ Please click on the "zeroth" project link below to get started on your assigned 
 
 ## Projects repository for the Fundamentals of Computing classroom
 
-Project|Status|Topic Description
-:---|:---|:---
-0| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
-1| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
-2| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
-3| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-4| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
-5| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
-6| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
-7| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
-8| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
-9| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build an autonomous self-driving smart car using a rPI and Python</a>
-10| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a Spectroscope and Capture Spectra with Python</a>
-11| 🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
+id|Project Type|Status|Topic Description
+:---|:---|:---|:---
+0|Classwork| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
+1|Classwork| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
+2|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
+3|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
+4|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
+5|Classwork| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
+6|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
+7|Project| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
+8|Classwork| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
+9| Project|☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car using a rPI and Python</a>
+10| Project|☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a Spectroscope and Capture Spectra with Python</a>
+11| Portfolio|🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
 
 ## Raspberry PI Project Teams
 
