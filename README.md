@@ -61,7 +61,7 @@ Project|Status|Topic Description
 6| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
 7| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
 8| 🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
-9| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build an autonomous self-driving smart car using a rPI & Python</a>
+9| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build an autonomous self-driving smart car using a rPI and Python</a>
 10| ☀️ Upcoming|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a Spectroscope and Capture Spectra with Python</a>
 11| 🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
 
