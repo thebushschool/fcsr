@@ -69,17 +69,17 @@ id|Project Type|Status|Topic Description
 
 ## Raspberry PI Project Teams
 
-Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
+Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
-1| TBD|Bing, Gus, Kai|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| TBD|Max, Luke, Dagi|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
-3| TBD|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
-4| TBD|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
-5| TBD|Vincent(TA)|[bupi8](http://bupi8)|[http://bupi8:8081](http://bupi8:8081)
+1| Project|Bing, Gus, Kai|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
+2| Project|Max, Luke, Dagi, Vincent(TA)|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
+3| Project|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+4| Project|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
 
-## FINAL Project Teams
+## FINAL/SENIOR Project Teams
 
-Team|Team Name|Members|rPI Host|JupyterLab for rPI projects
+Team|Team Type|Members|JupyterLab Host|Images Host TBD
 :---|:---|:---|:---|:---
-1| TBD|Bing, Gus, Kai, Dagi|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| TBD|Asher, Teoman, Declan, Alex|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)|[http://bupi1:8888](http://bupi2:8888)
+2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)|[http://bupi5:8888](http://bupi5:8888)
+3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://bupi8:8181](http://bupi8:8181)|[http://bupi8:8888](http://bupi8:8888)
