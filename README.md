@@ -1,4 +1,4 @@
-## Course Website & repository for the ***Bush Fundamentals of Computing*** (FCSR) class Spring 2023 
+## ***Bush Fundamentals of Computing*** (FCSR) class Spring 2023 
 #### taught by *Chandru Narayan*
 
 ## Welcome to ***Fun of Computing!*** (FCSR) course
