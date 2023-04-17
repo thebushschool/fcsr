@@ -3,13 +3,15 @@
 
 ## Welcome to ***Fun of Computing!*** (FCSR) course
 
-Raspberry PI|Image Sensor
-:---:|:---:
-![rpi](pboard.jpeg)|![rpi](pir3.jpg)
-
 SnooPI|Smart Car
 :---:|:---:
 ![sn1](sn1.png)|![sn2](sn2.png)
+
+LED Pixel Board|Image Sensor
+:---:|:---:
+![rpi](pboard.jpeg)|![rpi](pir3.jpg)
+
+
 
 
 This class is designed to teach the fundamentals and nature of modern computing, language of data, and design thinking. Students will learn current research, programming, data analysis, and visualization skills that any researcher might need during the course of a project while in college or your first career.
