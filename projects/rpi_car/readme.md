@@ -14,18 +14,18 @@ As before, clicking them will download to your laptop.  Drag these files one at 
 
 First put the car on a small pedestal such that the car does not actually move (wheels should not touch the floor) before trying these notebooks below.  
 
-### 1. [Activate SnooPi's Buzzer and Lights](notebooks/rcBuzzerLEDTest.ipynb)
-### 2. Make SnooPi Go
-- [Run Forward](notebooks/rcForward.ipynb)
-- [Run Diagonal](notebooks/rcSlant.ipynb)
-- [Spin in Place](notebooks/rcSpin.ipynb)
-- [Drift in circles](notebooks/rcSpin.ipynb)
-- [SnooPi can measure Distance using Sonar](notebooks/rcSonar.ipynb)
-- [Move SnooPi's Head](notebooks/rcServos.ipynb)
-### 3. [SnooPi takes a picture](notebooks/rcCamera.ipynb)
-### 4. Create a Custom Action Sequence for Snoopi
-
-Can you create a final Floor test for SnooPi doing multiple actions above?? - You will need to create a new Jupyter Notebook in your SnooPi - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi and edit for your sequence](projects/rpi_car/notebooks/myname_snoopi_custom_seq.ipynb).
+1. [Activate SnooPi's Buzzer and Lights](notebooks/rcBuzzerLEDTest.ipynb)
+2. Make SnooPi Go
+    - [Run Forward](notebooks/rcForward.ipynb)
+    - [Run Diagonal](notebooks/rcSlant.ipynb)
+    - [Spin in Place](notebooks/rcSpin.ipynb)
+    - [Drift in circles](notebooks/rcSpin.ipynb)
+    - [SnooPi can measure Distance using Sonar](notebooks/rcSonar.ipynb)
+    - [Move SnooPi's Head](notebooks/rcServos.ipynb)
+3. [SnooPi takes a picture](notebooks/rcCamera.ipynb)
+4. Create a Custom Action Sequence for Snoopi
+    
+    Can you create a final Floor test for SnooPi doing multiple actions above?? - You will need to create a new Jupyter Notebook in your SnooPi - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi and edit for your sequence](projects/rpi_car/notebooks/myname_snoopi_custom_seq.ipynb).
 
 
 
