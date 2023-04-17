@@ -18,12 +18,16 @@
         
     First put the car on a small pedestal such that the car does not actually move (wheels should not touch the floor) before trying these notebooks below.  
 
-### 1.  [Activate SnooPi's Buzzer and Lights]()
-### 2.  [Make SnooPi Go]()
-### 3.  [SnooPi can measure Distance using Sonar]()
-### 4.  [Move SnooPi's Head]()
-### 5.  [SnooPi takes a picture]()
-### 6.  [A final Floor test for SnooPi!]()
+### 1.  [Activate SnooPi's Buzzer and Lights](notebooks/rcBuzzerLEDTest.ipynb)
+### 2.  Make SnooPi Go
+1. [Run Forward](notebooks/rcForward.ipynb)
+2. [Run Diagonal](notebooks/rcSlant.ipynb)
+3. [Spin in Place](notebooks/rcSpin.ipynb)
+4. [Drift in circles](notebooks/rcSpin.ipynb)
+### 3.  [SnooPi can measure Distance using Sonar](notebooks/rcSonar.ipynb)
+### 4.  [Move SnooPi's Head](notebooks/rcServos.ipynb)
+### 5.  [SnooPi takes a picture](notebooks/rcCamera.ipynb)
+### 6.  Can you create a final Floor test for SnooPi doing all of the actions above?? - You will need to create a new Jupyter Notebook - call it floor_test.ipynb
 
 
 
