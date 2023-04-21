@@ -87,6 +87,6 @@ Team|Team Type|Members|Web Host|JupyterLab Host
 
 Team|Team Type|Members|JupyterLab Host|Images Host TBD
 :---|:---|:---|:---|:---
-1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)|[http://bupi1:8888](http://bupi2:8888)
-2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)|[http://bupi5:8888](http://bupi5:8888)
-3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://bupi8:8181](http://bupi8:8181)|[http://bupi8:8888](http://bupi8:8888)
+1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)|TBD
+2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)|TBD
+3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://tupi1:8181](http://tupi1:8181)|TBD
