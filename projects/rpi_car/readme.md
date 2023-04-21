@@ -4,7 +4,7 @@
 
 ### A.  First build SnooPi following the instructions below
 
-1. [Lesson 1 Introduction to SnooPi](Lesson1_Intro_TurboPi.pdf
+1. [Lesson 1 Introduction to SnooPi](Lesson1_Intro_SnooPi.pdf)
 1. [Lesson 2 Intro to Mecanum Wheels](Lesson2_Intro_Mecanum_Wheels.pdf)
 1. [Lesson 3 Build SnooPi](Lesson3_Build_TurboPI.pdf)
 
