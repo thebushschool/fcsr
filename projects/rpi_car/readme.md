@@ -14,17 +14,17 @@ As before, clicking them will download to your laptop.  Drag these files one at 
 
 First put the car on a small pedestal such that the car does not actually move (wheels should not touch the floor) before trying these notebooks below.  
 
-1. [Activate SnooPi's Buzzer and Lights](notebooks/rcBuzzerLEDTest.ipynb)
+1. [Activate SnooPi's Buzzer and Lights](assignments/rcBuzzerLEDTest.ipynb)
 2. Make SnooPi Go
-    - [Run Forward](notebooks/rcForward.ipynb)
-    - [Run Diagonal](notebooks/rcSlant.ipynb)
-    - [Spin in Place](notebooks/rcSpin.ipynb)
-    - [Drift in circles](notebooks/rcSpin.ipynb)
-    - [SnooPi can measure Distance using Sonar](notebooks/rcSonar.ipynb)
-    - [Move SnooPi's Head](notebooks/rcServos.ipynb)
-3. [SnooPi takes a picture](notebooks/rcCamera.ipynb)
+    - [Run Forward](assignments/rcForward.ipynb)
+    - [Run Diagonal](assignments/rcSlant.ipynb)
+    - [Spin in Place](assignments/rcSpin.ipynb)
+    - [Drift in circles](assignments/rcSpin.ipynb)
+    - [SnooPi can measure Distance using Sonar](assignments/rcSonar.ipynb)
+    - [Move SnooPi's Head](assignments/rcServos.ipynb)
+3. [SnooPi takes a picture](assignments/rcCamera.ipynb)
 4. Create a Custom Action Sequence for Snoopi
     
-    Can you create a  Floor test for SnooPi doing multiple actions above?? - You will need to create a new Jupyter Notebook in your SnooPi - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi and edit for your sequence](notebooks/myname_snoopi_custom_seq.ipynb).
+    Can you create a  Floor test for SnooPi doing multiple actions above?? - You will need to create a new Jupyter Notebook in your SnooPi - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi and edit for your sequence](assignments/student_snoopi_custom_seq.ipynb).
  5. Create a Autonomous Action Sequence for Snoopi
-    Can you create Autonomous Action Sequence for Snoopi by combining actions above?? - We will start with an existing Autonomous Action Jupyter Notebook rcAvoid - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi, rename it and edit for your autonomous action](notebooks/rcAvoid.ipynb).
+    Can you create Autonomous Action Sequence for Snoopi by combining actions above?? - We will start with an existing Autonomous Action Jupyter Notebook rcAvoid - [Download here, change filename by adding your name.  Then drag the notebook to SnooPi, rename it and edit for your autonomous action](assignments/rcAvoid.ipynb).
