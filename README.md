@@ -93,7 +93,7 @@ Team|Team Type|Members|JupyterLab Host|Images Host TBD
 
 ## SnooPi Notebooks Assignments Table
 
-Notebook#|Student|SnooPi Notebook Starter|Assignment Detail|Status
+Notebook#|Student|Description|SnooPi Notebook Starter|Status
 :---|:---|:---|:---|:---|
-0|All|Checkout & Verify SnooPi|[all_rcHardware.ipynb]()
-1|Dagi|Buzzer & LED
+0|All|Checkout & Verify SnooPi|[student_rcHardware.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcHardware.ipynb)|🤖 IN-WORK
+1|Dagi|Buzzer & LED|
