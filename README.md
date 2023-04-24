@@ -90,3 +90,10 @@ Team|Team Type|Members|JupyterLab Host|Images Host TBD
 1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)|TBD
 2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)|TBD
 3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://tupi1:8181](http://tupi1:8181)|TBD
+
+## SnooPi Notebooks Assignments Table
+
+Notebook#|Student|SnooPi Notebook Starter|Assignment Detail|Status
+:---|:---|:---|:---|:---|
+0|All|Checkout & Verify SnooPi|[all_rcHardware.ipynb]()
+1|Dagi|Buzzer & LED
