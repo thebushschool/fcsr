@@ -95,8 +95,9 @@ Team|Team Type|Members|JupyterLab Host|Images Host TBD
 
 Notebook#|Student|Description|SnooPi Notebook Starter|Status
 :---|:---|:---|:---|:---|
-0|Gus|Checkout & Verify SnooPi|[student_rcHardware.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcHardware.ipynb)|🤖 IN-WORK
-1|Dagi|Buzzer|[student_rcBuzzerLEDTest.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcBuzzerLEDTest.ipynb)|🤖 IN-WORK
-2|Bing|Sonar Distance|[student_rcSonar.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcSonar.ipynb)|🤖 IN-WORK
-2|Bing|Sonar Distance|[student_rcSonar.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcSonar.ipynb)|🤖 IN-WORK
+0|Team|Checkout & Verify SnooPi|[student_rcHardware.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcHardware.ipynb)|🤖 IN-WORK
+1|Dagi|Buzzer Patterns|[student_rcBuzzerLEDTest.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcBuzzerLEDTest.ipynb)|🤖 IN-WORK
+2|Kai|Sonar Distance|[student_rcSonar.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcSonar.ipynb)|🤖 IN-WORK
+3|Bing|Turn & Snap Picture|[student_rcTurn.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcTurn.ipynb)|🤖 IN-WORK
+5|Gus|Swivel head & Snap Picture|[student_rcServos.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcServos.ipynb)|🤖 IN-WORK
 
