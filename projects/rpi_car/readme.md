@@ -47,5 +47,11 @@ Notebook#|Student|Description|SnooPi Notebook Starter|Status
 4|Max|Turn & Snap Picture|[student_rcTurn.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcTurn.ipynb)|🤖 IN-WORK
 5|Vincent|Swivel head & Snap Picture|[student_rcServos.ipynb](http://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_car%2Fassignments%2Fstudent_rcServos.ipynb)|🤖 IN-WORK
 
-### D.  Autonomous Action Jupyter Notebook rcAvoid - In this section, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will avoid obtacles on its path as it moves. Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder.  Try executing your notebook to see if it works.  Make modifications once again to fix the action if you see issues and try again.[Download here, change filename by adding your name.  Then drag the notebook to SnooPi, rename it and edit for your autonomous action](assignments/student_rcAvoid.ipynb).
+### D.  Autonomous Action Jupyter Notebook - Obstacle Avoidance
+
+In this assignment, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will avoid obtacles on its path as it moves. In addition, we will add Video and Sonar to the SnooPi actions - a frame will be captured and a distance measurement made each time through the "while" loop!  We will walktrhough this code first.
+
+Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder.  Try executing your notebook to see if it works.  Make modifications once again to fix the action if you see issues and try again.
+
+[Download here, change filename by adding your name.  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action](assignments/student_rcAvoid.ipynb).
 
