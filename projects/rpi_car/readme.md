@@ -49,9 +49,21 @@ Notebook#|Student|Description|SnooPi Notebook Starter|Status
 
 ### D.  Autonomous Action Jupyter Notebook - Obstacle Avoidance
 
-In this assignment, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will avoid obtacles on its path as it moves. In addition, we will add Video and Sonar to the SnooPi actions - a frame will be captured and a distance measurement made each time through the "while" loop!  We will walktrhough this code first.
+In this assignment, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will avoid obtacles on its path as it moves. In addition, we will add Video and Sonar to the SnooPi actions - a frame will be captured and a distance measurement made each time through the "while" loop!  We will walktrhough this code first.  
 
-Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder.  Try executing your notebook to see if it works.  Make modifications once again to fix the action if you see issues and try again.
+1.  Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder without any modifcations.  Make sure SnooPi can execute its autonomouis actions to capture video, measure distance, and evasive action on encountering an obstacle.
+        
+1. Each student will then incorporate one or more (or all) actions from the previous exercises:
+    * Make the buzzer emit a "beep-beep-beep" tone when an obstacle is encountered and then stop
+    * Turn the LED to a RED color when obstacle is encountered 
+    * Do a spin move and proceed in the opposite direction
+    * Do a sidewise move and proceed if clearing the obstacle
+    
 
-[Download here, change filename by adding your name.  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action](assignments/student_rcAvoid.ipynb).
+            
+        Make modifications once again to fix the action if you see issues and try again.
+
+[Download here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
+
+[You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
 
