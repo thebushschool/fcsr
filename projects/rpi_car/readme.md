@@ -63,7 +63,22 @@ In this assignment, We will attempt to program an Autonomous Action that SnooPi 
             
         Make modifications once again to fix the action if you see issues and try again.
 
-[Download here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
+    * [Download here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
 
-[You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
+    * [You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
+
+### E.  Autonomous Action Jupyter Notebook - Line Folowing
+
+In this assignment, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will follow a line (made by sticking blue tape to the floor in an oval circuit or another way closed shape) as it moves. In addition, we will add Video and Sonar to the SnooPi actions - a frame will be captured and displayed each time through the "while" loop!  We will walktrhough this code first.  
+
+1.  Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder without any modifcations.  Make sure SnooPi can execute its autonomouis actions to capture video, and follow the line as it moves.
+        
+1. Each student will then incorporate one or more (or all) actions from the previous exercises:
+    * Test SnooPi to see if Line Following works and make any adjustments to the line following sensor as needed.
+    * Find a ay to stop SnooPi at the end of the first loop.  Yo ucan use one of the other actions to incorporate this into your code.
+        Make modifications once again to fix the action if you see issues and try again.
+
+    * [Download Line Follower code here, change filename by adding your name](assignments/student_rcLineFollower.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
+
+    * [You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
 
