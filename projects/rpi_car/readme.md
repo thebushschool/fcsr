@@ -63,7 +63,7 @@ In this assignment, We will attempt to program an Autonomous Action that SnooPi 
             
         Make modifications once again to fix the action if you see issues and try again.
 
-    * [Download here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
+    * [Download Obstacle Avoidance here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
 
     * [You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
 
