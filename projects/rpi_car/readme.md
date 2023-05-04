@@ -51,21 +51,16 @@ Notebook#|Student|Description|SnooPi Notebook Starter|Status
 
 In this assignment, We will attempt to program an Autonomous Action that SnooPi can take. In this case SnooPi will avoid obtacles on its path as it moves. In addition, we will add Video and Sonar to the SnooPi actions - a frame will be captured and a distance measurement made each time through the "while" loop!  We will walktrhough this code first.  
 
-1.  Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder without any modifcations.  Make sure SnooPi can execute its autonomouis actions to capture video, measure distance, and evasive action on encountering an obstacle.
+1.  Please take the same steps as you did previously, rename file and drag it to SnooPi's Jupyter Lab into your own notebook folder without any modifcations.  Make sure SnooPi can execute its autonomous actions to capture video, measure distance, and evasive action on encountering an obstacle.
+        * [Download Obstacle Avoidance here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
+        * [You may also need this notebook](assignments/student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
         
-1. Each student will then incorporate one or more (or all) actions from the previous exercises:
-    * Make the buzzer emit a "beep-beep-beep" tone when an obstacle is encountered and then stop
-    * Turn the LED to a RED color when obstacle is encountered 
-    * Do a spin move and proceed in the opposite direction
-    * Do a sidewise move and proceed if clearing the obstacle
-    
-
-            
-        Make modifications once again to fix the action if you see issues and try again.
-
-    * [Download Obstacle Avoidance here, change filename by adding your name](assignments/student_rcAvoid.ipynb).  Then drag the notebook to SnooPi's JupyterLab student folder, rename it and edit for your autonomous action.
-
-    * [You may also need this notebook](student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
+1. Each student will then incorporate one or more (or all) actions from the previous exercises in addition to the Obstacle Avoidance movement that SnooPi is already performing while displaying a video image from the camera.  Write additional code for at least one of the following:
+    * SnooPi should stop before it runs into the obstacle.Make the buzzer emit a "beep-beep-beep" tone when an obstacle is encountered and keep "beep-beep-beeping".  When the obstacle is removed SnooPi should once again be on its way.  
+    * SnooPi should stop before it runs into the obstacle.SnooPi should stop and move it's head from side to side when an obstacle is encountered and keep shaking it's head. When the obstacle is removed SnooPi should look forward once again be on its way.  
+    * SnooPi shoud move with LEDs showing Green. SnooPi should stop before it runs into the obstacle. SnooPi should then change it's LEDs to Red. It should remain Red until the obstacle is removed.  SnooPi shouod resume moving with LEDs green when obstacle is removed. 
+    * SnooPi should stop before it runs into the obstacle. It should then start moving sideways until the obstacle no longer blocks its path.  Then resume moving forward.
+    * Demonstrate your code for SnooPi's autonomous action.
 
 ### E.  Autonomous Action Jupyter Notebook - Line Folowing
 
