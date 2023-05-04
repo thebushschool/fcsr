@@ -25,7 +25,6 @@ First put the car on a small pedestal such that the car does not actually move (
 3. [SnooPi takes a picture](assignments/student_rcCamera.ipynb)
 4. After the tests above are successful, you will do individual assignments per table below
 
-
 ### C. SnooPi Individual Assignments Table
 
 Notebook#|Student|Description|SnooPi Notebook Starter|Status
