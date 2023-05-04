@@ -55,9 +55,9 @@ In this assignment, We will attempt to program an Autonomous Action that SnooPi 
         * [You may also need this notebook](assignments/student_snoopiSTOP.ipynb) that allows you to STOP SnooPi if things go awry!
         
 1. Each student will then incorporate one or more (or all) actions from the previous exercises in addition to the Obstacle Avoidance movement that SnooPi is already performing while displaying a video image from the camera.  Write additional code for at least one of the following:
-    * SnooPi should stop before it runs into the obstacle.Make the buzzer emit a "beep-beep-beep" tone when an obstacle is encountered and keep "beep-beep-beeping".  When the obstacle is removed SnooPi should once again be on its way.  
+    * SnooPi should stop before it runs into the obstacle.Make the buzzer emit a "beep-beep-beep" tone when an obstacle is encountered and keep "beep-beep-beeping".  When the obstacle is removed SnooPi should once again be on its way with Beeping stopped.  
     * SnooPi should stop before it runs into the obstacle.SnooPi should stop and move it's head from side to side when an obstacle is encountered and keep shaking it's head. When the obstacle is removed SnooPi should look forward once again be on its way.  
-    * SnooPi shoud move with LEDs showing Green. SnooPi should stop before it runs into the obstacle. SnooPi should then change it's LEDs to Red. It should remain Red until the obstacle is removed.  SnooPi shouod resume moving with LEDs green when obstacle is removed. 
+    * SnooPi shoud move with LEDs showing Green. SnooPi should stop before it runs into the obstacle. SnooPi should then change it's LEDs to Red. It should remain Red until the obstacle is removed.  SnooPi should resume moving with LEDs green when obstacle is removed. 
     * SnooPi should stop before it runs into the obstacle. It should then start moving sideways until the obstacle no longer blocks its path.  Then resume moving forward.
     * Demonstrate your code for SnooPi's autonomous action.
 
