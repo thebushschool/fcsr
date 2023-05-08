@@ -72,7 +72,9 @@ id|Project Type|Status|Topic Description
 8|Classwork| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
 9| Project|🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
 10| Project|🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Follow a Line</a>
-11| Portfolio|🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
+11| Project|🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope that can measure emission spectra of elements</a>
+chandrunarayan.github.io/fcsr/projects/" target="_blank">Build an autonomous self-driving smart car to Follow a Line</a>
+12| Portfolio|🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the many choices above. Share with community!</a>
 
 ## Raspberry PI Project Teams
 
