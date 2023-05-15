@@ -70,9 +70,8 @@ id|Project Type|Status|Topic Description
 6|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
 7|Project| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
 8|Classwork| ✅ DONE|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
-9| Project|🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
-10| Project|🤖 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
-11| Portfolio|🎉 FINAL Project. Seniors are Exempt|<a href="https://chandrunarayan.github.io/fcsr" target="_blank">Build a FINAL Project based on the LED Matrix ***PLUS*** one of the two choices above. Share with community!</a>
+9| Project|🎉 ✅ DONE FINAL Project 1.|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
+10| Portfolio|🎉 FINAL Project 2. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
 
 ## Raspberry PI Project Teams
 
@@ -83,11 +82,17 @@ Team|Team Type|Members|Web Host|JupyterLab Host
 3| Project|Asher, Teoman, Declan|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
 4| Project|Sidney, Maddie, Alex|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
 
-## FINAL/SENIOR Project Teams
+## Autonomous Car Project Teams
 
-Team|Team Type|Members|JupyterLab Host|Images Host TBD
-:---|:---|:---|:---|:---
-1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)|TBD
-2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)|TBD
-3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://tupi1:8181](http://tupi1:8181)|TBD
+Team|Team Type|Members|JupyterLab Host
+:---|:---|:---|:---
+1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi2:8181](http://bupi2:8181)
+2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi5:8181](http://bupi5:8181)
+3| Senior Project|Maddie, Sidney, Vincent, Luke, Max|[http://tupi1:8181](http://tupi1:8181)
 
+## Spectroscope Project Teams
+
+Team|Team Type|Members|JupyterLab Host
+:---|:---|:---|:---
+1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi4:8181](http://bupi2:8181)
+2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi7:8181](http://bupi5:8181)
