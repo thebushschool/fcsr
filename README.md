@@ -3,6 +3,10 @@
 
 ## Welcome to ***Fun of Computing!*** (FCSR) course
 
+Spectrocopy|Spectroscope
+:---:|:---:
+![sp1](sp1.png)|![sp2](sp2.png)
+
 SnooPI|Smart Car
 :---:|:---:
 ![sn1](sn1.png)|![sn2](sn2.png)
