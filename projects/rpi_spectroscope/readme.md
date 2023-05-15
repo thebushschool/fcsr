@@ -2,6 +2,7 @@
 In this project we will start by studying the science of Spectroscopy and use your Computing skills to see it for yourself! To do this, we wiil build a Raspberry PI Spectroscope to measure emission spectra of the Sun and other elements! The build instructions are as follows. I will assign specific raspberry PI's for you to use during your build.
 
 1. [Study the Science of Spectroscopy](The_Science_of_Spectroscopy_and_Computing.pdf)
+![sp1](../../sp1.png)
 
 1. [Use this document and following pictures](Final_Project_Bush_Digital_Spectroscope.pdf) as a guide for your build. Please use the play doh provided to complete your build.  Note the light path via the slit and the oruenation of the rPI and betteries with regard to the slit.
 ![4283](IMG_4283.png)
