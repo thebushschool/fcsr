@@ -98,5 +98,5 @@ Team|Team Type|Members|JupyterLab Host
 
 Team|Team Type|Members|JupyterLab Host
 :---|:---|:---|:---
-1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi1:8181](http://bupi1:8081)
-2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi7:8181](http://bupi7:8081)
+1| Final Project|Bing, Gus, Kai, Dagi|[http://bupi1:8081](http://bupi1:8081)
+2| Final Project|Asher, Teoman, Declan, Alex|[http://bupi7:8081](http://bupi7:8081)
