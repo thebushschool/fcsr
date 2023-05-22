@@ -3,7 +3,20 @@
 
 ## Welcome to ***Fun of Computing!*** (FCSR) course
 
-Spectrocopy|Spectroscope
+LED Pixel Board|Python-JupyterLab
+:---:|:---:
+![rpi](pboard.jpeg)|![jup](jupyterlab.png)
+
+Spectroscope|SnooPI
+:---:|:---:
+![sp2](sp2.png)|![sn1](sn1.png)
+
+LED Pixel Board|Image Sensor
+:---:|:---:
+![rpi](pboard.jpeg)|![rpi](pir3.jpg)
+
+
+Spectroscopy|Spectroscope
 :---:|:---:
 ![sp1](sp1.png)|![sp2](sp2.png)
 
