@@ -15,22 +15,6 @@ LED Pixel Board|Image Sensor
 :---:|:---:
 ![rpi](pboard.jpeg)|![rpi](pir3.jpg)
 
-
-Spectroscopy|Spectroscope
-:---:|:---:
-![sp1](sp1.png)|![sp2](sp2.png)
-
-SnooPI|Smart Car
-:---:|:---:
-![sn1](sn1.png)|![sn2](sn2.png)
-
-LED Pixel Board|Image Sensor
-:---:|:---:
-![rpi](pboard.jpeg)|![rpi](pir3.jpg)
-
-
-
-
 This class is designed to teach the fundamentals and nature of modern computing, language of data, and design thinking. Students will learn current research, programming, data analysis, and visualization skills that any researcher might need during the course of a project while in college or your first career.
 
 We will be using state-of-the-art tools a typical scientist, artist or a humanities student might use to build a portfolio of accomplishments, publish your work to the internet, allowing others to find about you and your interests. Technologies include and not limited to Github and Markdown syntax, Google Sheets, Python, Jupyter Notebooks, Jupyterlab/Colab, Matplotlib and Physical computing using Raspberry PI. We will build basic to sophisticated applications of these skills to multiple engaging 2-week tactile and visual projects in STEAM (science, technology, engineering, art, and maths) subjects. The courseware is typically tactile (hands-on, experimental) and visual (graphical, mechanical) with focus on the mind-body connection of learning.
