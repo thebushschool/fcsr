@@ -3,7 +3,7 @@
 
 ### Welcome to the ***Fun(damentals) of Computing course!***
 
-LED Pixel Board|Python-JupyterLab
+Galton Board|Python-JupyterLab
 :---:|:---:
 ![rpi](gboard.png)|![jup](jupyterlab.png)
 
@@ -11,11 +11,11 @@ Spectroscope|SnooPI
 :---:|:---:
 ![sp2](sp2.png)|![sn1](sn1.png)
 
-LED Pixel Board|Image Sensor
+LED Pixel Board|Light Sensor
 :---:|:---:
 ![rpi](pboard.jpeg)|![rpi](pir3.jpg)
 
-This class is designed to teach the fundamentals and nature of modern computing, language of data, and design thinking. Students will learn current research, programming, data analysis, and visualization skills that any researcher might need during the course of a project while in college or your first career.
+This class is designed to teach the fundamentals and nature of modern computing, language of data, and design thinking. Students will learn current research, programming, edge computing, data analysis, and visualization skills that any researcher might need during the course of a project while in college or your first career.
 
 We will be using state-of-the-art tools a typical scientist, artist or a humanities student might use to build a portfolio of accomplishments, publish your work to the internet, allowing others to find about you and your interests. Technologies include and not limited to Github and Markdown syntax, Google Sheets, Python, Jupyter Notebooks, Jupyterlab/Colab, Matplotlib and Physical computing using Raspberry PI. We will build basic to sophisticated applications of these skills to multiple engaging 2-week tactile and visual projects in STEAM (science, technology, engineering, art, and maths) subjects. The courseware is typically tactile (hands-on, experimental) and visual (graphical, mechanical) with focus on the mind-body connection of learning.
 
