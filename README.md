@@ -1,7 +1,7 @@
 ## ***Bush Fundamentals of Computing*** (FCSR) class Spring 2024 
 #### taught by *Chandru Narayan*
 
-## Welcome to ***Fun of Computing!*** (FCSR) course
+### Welcome to the ***Fun(damentals) of Computing course!***
 
 LED Pixel Board|Python-JupyterLab
 :---:|:---:
