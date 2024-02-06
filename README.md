@@ -80,7 +80,7 @@ Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
 1| Project|🟤 NOT FORMED|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
 2| Project|🟤 NOT FORMED|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
-3| Project|A🟤 NOT FORMED|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+3| Project|🟤 NOT FORMED|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
 4| Project|🟤 NOT FORMED|[bupi7](http://bupi7)|[http://bupi7:8081](http://bupi7:8081)
 
 ## Autonomous Car Project Teams
