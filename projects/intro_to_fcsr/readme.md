@@ -8,7 +8,7 @@ Please use your Bush email shown below as username to log in. For JupyterLab use
 | Eli.Brown-Rodriguez@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
 | Julia.Wang@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)      |
 | Kate.Oh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
-| Kirubel.Daniel@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F)   [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Kirubel.Daniel@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F)  | [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
 | Kylee.Joh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
 | Leo.Haas@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
 | Lily.Miura@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
