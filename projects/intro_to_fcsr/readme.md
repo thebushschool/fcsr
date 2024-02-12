@@ -4,22 +4,22 @@ Please use your Bush email shown below as username to log in. For JupyterLab use
 
 | Student  email    | JupyterLab | Trinket
 | ----------- | ----------- | ----------- |
-| Anisha.Bajaj@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Eli.Brown-Rodriguez@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Julia.Wang@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Kate.Oh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Kirubel.Daniel@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Kylee.Joh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Leo.Haas@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Lily.Miura@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Maria.Klimova@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Miles.Breitenbucher@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)       |
-| Penelope.Montufar@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Reed.Delahunty@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Rhys.Goldman@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Sabrina.Nay@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
-| Sanvi.Agarwal@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)       |
-| Smaranda.Sharpe@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) | [Trinket Login](https://trinket.io/courses/join/muTYtd)        |
+| Anisha.Bajaj@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Eli.Brown-Rodriguez@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
+| Julia.Wang@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)      |
+| Kate.Oh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Kirubel.Daniel@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F)   [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Kylee.Joh@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Leo.Haas@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
+| Lily.Miura@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Maria.Klimova@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Miles.Breitenbucher@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)
+| Penelope.Montufar@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)
+| Reed.Delahunty@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
+| Rhys.Goldman@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
+| Sabrina.Nay@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
+| Sanvi.Agarwal@bush.edu    | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)       |
+| Smaranda.Sharpe@bush.edu   | [JupyterLab Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F) |  [Trinket Login](https://trinket.io/courses/join/CDXjA7)        |
 
 ### 2. Fundamentals of Computng Course Introduction JupyterLab Notebook
 Access this digital notebook 
