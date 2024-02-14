@@ -62,8 +62,8 @@ Please click on the "zeroth" project link below to get started on your assigned 
 
 id|Project Type|Status|Topic Description
 :---|:---|:---|:---
-0|Classwork|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
-1|Classwork|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to Github, Jupyter and Markdown</a>
+0|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
+1|Classwork|🟡 STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to JupyterLab and Markdown</a>
 2|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
 3|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
 4|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Dart Board PI</a>
