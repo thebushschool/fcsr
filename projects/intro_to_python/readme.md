@@ -1,3 +1,3 @@
 # Introduction to Python & Plotting with Matplotlib
 1. [Introduction to JupyterLab, numPy Arrays & Plotting](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_python%2Fintro_to_python.ipynb?reset)
-2. [A second assignment to learn Scatter Plotting](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_python%2Fsimple_scatter_plots.ipynb?reset)
+2. [Optional assignment to learn Scatter Plotting](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fintro_to_python%2Fsimple_scatter_plots.ipynb?reset)
