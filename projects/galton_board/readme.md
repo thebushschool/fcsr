@@ -1,2 +1,5 @@
 # Galton Board and Normal Distributions
-1. [Access and modify materials for this project in JupyterLab by clicking here](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fgalton_board%2Fgalton_board.ipynb?reset)
+##  This is a 3-part project and it wil be worth 3-times the garde of a single project!
+1. [Access and modify materials for Building the Galton Board](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fgalton_board%2F1_galton_board_build.ipynb?reset)
+1. [Access and modify materials for Running the Galton Board](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fgalton_board%2F2_galton_board_run.ipynb?reset)
+1. [Access and modify materials for Simulating the Galton Board](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Fgalton_board%2F3_galton_board_simulation.ipynb?reset)
