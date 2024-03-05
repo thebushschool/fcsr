@@ -65,7 +65,7 @@ id|Project Type|Status|Topic Description
 0|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
 1|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to JupyterLab and Markdown</a>
 2|Project|🟡 STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
-3|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Fibonacci Numbers - Normal Distributions</a>
+3|Project|🟡 STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Fibonacci Numbers - Normal Distributions</a>
 4|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
 5|Classwork|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
 6|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
