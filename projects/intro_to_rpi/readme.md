@@ -15,11 +15,16 @@
 1. [Click here to Access Your Team Raspberry PI's JupyterLab (replace bupiX with your rPI hostname in the address bar of your browser)](http://bupiX.bush.edu:8081)
  
     🟠 ✅ Do you see the JupyterLab hosted on your Raspberry PI ??
+
+1. Start by renaming one of the ***```userX```*** folders with just  ***```your lowercase firstname all one word no spaces```***. Double-click this folder.
+
+    🟠 ✅ ***```make sure you create and edit all of your own notebooks only in this folder```***.  **Do NOT EDIT another users files!!**    
+
+1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your folder PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
+
+    🟠 ✅ Did you make sure that you are running your notebook from your folder?
     
-
-1. Download the ```sysinfo.ipynb``` by [right-clicking this link and select 'Save Link As'](sysinfo.ipynb) and then drag the file to your PI's JupyterLab. Run the sysinfo Jupyter Notebook and document your results in a ```dated``` page of your workshop notebook.
-
-    🟠 ✅ Did you write down the your RPI's sysinfo results in a ```dated``` 
+    🟠 ✅ Did you write down the your RPI's sysinfo results in your field notebook on a  ```dated``` page?
 
 
 1. We will use the Multimeter to measure some voltages from the pins. See the pin layout of your Raspberry PI Host below. Place the ```Black probe``` of your Multimeter on any ```GND ground``` pin of your rPI and the ```Red probe``` on the ```3V3 or 5V pin``` of your rPI. Write down the voltage you measure from the 3.3 volt pin and the 5 volt pin on your Raspberry PI on the previously ```dated``` page of your Workshop Notebook. 
@@ -33,9 +38,10 @@
     
 ### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
 
-1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag the ```first_notebook.ipynb``` file to your laptop to the rPI's JupyterLab.  
+1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag the ```first_notebook.ipynb``` file from your laptop to your folder in rPI's JupyterLab.  
+    🟠 ✅ Did you make sure that you are creating this notebook in your user folder?
 
-1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to your laptop to the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
+1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. Take a picture of the wiring diagram and mail it to yourself. Add this picture file (.jpg or .png) from your laptop to ypur folder in the rPI's JupyterLab.  Add a link to this picture inside the Wiring diagram Markdown cell created for you by adding a single line similar to:
     ````
     ![wire1](photoname1.jpg)
     ````
@@ -48,6 +54,7 @@
 
     ![restart](restart_runall.png)
 
+    🟠 ✅  Only one user can run the notebook a time!
 
     🟠 ✅  Did you create, and upload your wiring diagram and verify the corresponding code in the Jupyter Notebook ??  If not, please do this as it is part of your assessment!
     
@@ -62,7 +69,7 @@
 
 ### Step 4. Button control - Adding a Button to the circuit
 
-1. Download the ```button_test.ipynb``` by [right-clicking this link and select 'Save Link As'](button_test.ipynb) and then drag the ```button_test.ipynb``` file to your laptop to the rPI's JupyterLab.  
+1. Download the ```button_test.ipynb``` by [right-clicking this link and select 'Save Link As'](button_test.ipynb) and then drag the ```button_test.ipynb``` file from your laptop to your folder in the rPI's JupyterLab.  
 
 1. Create a hand-drawn wiring diagram for the following circuit imaged below. Modify the template of the wiring diagram given to you to create this drawing. In this circuit we are changing the LED to GPIO port back to GPIO4. Show the button or LED in your drawing further down the breadboard so as not to interfere with the led previously installed.  Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard. Show the button connected to GPIO17 and the other to the ground rail.  
 
@@ -82,7 +89,7 @@
 
 1. Note that we have added a callback function for the button called ```pressed``` in the ```BUTTON setup ``` block. We will walkthrough this code together.  The ```MAIN loop``` block remains the same as before, although the LED is blinking faster!
 
-1. Run the ```button_test.ipynb``` notebook.  Your notebook should like the image below. Click the restart & runall button as before to Run your notebook.
+1. Run the ```button_test.ipynb``` notebook.  Your notebook should like the image below. Click the restart & runall button as before to Run your notebook.  Only one user can run the notebook a time!
     
 1. Now you will see that both the LED and Button are functional, except they are NOT linked to each other.  This will be the purpose of the next step.
 
@@ -115,7 +122,7 @@
 
 ### Step 6. Finally let us create a Button Reaction Game!
 
-1. To create this game, we will download the ```reaction_game.ipynb``` by [right-clicking this link and select 'Save Link As'](reaction_game.ipynb) and then drag the ```reaction_game.ipynb``` file to your laptop to the rPI's JupyterLab.
+1. To create this game, we will download the ```reaction_game.ipynb``` by [right-clicking this link and select 'Save Link As'](reaction_game.ipynb) and then drag the ```reaction_game.ipynb``` file to your folder in the rPI's JupyterLab.
 
 1. You will need to add a second button as shown in the code you brought in. Create a wiring diagram based on the code that you see.
 

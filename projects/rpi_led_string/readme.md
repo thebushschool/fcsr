@@ -41,7 +41,7 @@ Pictures are worth a thousand words, so I am not going to write a thousand words
 
 ### Step 3. Jupyter Notebook to test your LED Matrix
 
-1. Download the ```neopixel_testing.ipynb``` by [right-clicking this link and select 'Save Link As'](neopixel_testing.ipynb).  Add this file to your JupyterLab running on your rPI.  This starter notebook will be used as a base notebook for all your LED string projects.
+1. Download the ```neopixel_testing.ipynb``` by [right-clicking this link and select 'Save Link As'](neopixel_testing.ipynb).  Add this file to your folder in JupyterLab running on your rPI.  This starter notebook will be used as a base notebook for all your LED string projects.
 
 1. Connect the +ve and GND Rail of your breadboard exactly matching what the code calls out for.  
 

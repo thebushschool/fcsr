@@ -1,3 +1,3 @@
 ### 1. Install Camera on Raspberry PI and verify its performance following instructions provided in classrom
-### 2. [Download this Jupyter Notebook](selfie_booth.ipynb) and complete it for the Selfie Booth project
-*  You may work on it during the break using the [cloud login by logging in here](https://bushastrolab.com/hub/login)
+### 2. [Download this Jupyter Notebook](selfie_booth.ipynb) to your JupyterLab folder and complete it for the Selfie Booth project
+
