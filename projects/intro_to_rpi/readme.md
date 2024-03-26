@@ -37,6 +37,11 @@
     
 ### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
 
+1. First, let's learn about using a ```breadboard``` to make ```solderless``` electronic circuits. 
+
+    ![bb1](breadboard.jpg)
+    ![bb21](solderless.jpg)
+    
 1. Download the ```first_notebook.ipynb``` by [right-clicking this link and select 'Save Link As'](first_notebook.ipynb) and then drag the ```first_notebook.ipynb``` file from your laptop to your folder in rPI's JupyterLab.  
     🟠 ✅ Did you make sure that you are creating this notebook in your user folder?
 
@@ -44,10 +49,6 @@
     ````
     ![wire1](photoname1.jpg)
     ````
-1. Let's learn about using a ```breadboard``` to make ```solderless``` electronic circuits. 
-
-    ![bb1](breadboard.jpg)
-    ![bb21](solderless.jpg)
 
 1. Wire-up your RPI following your own hand-drawn diagram. Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
 
