@@ -33,8 +33,7 @@
     ![multi](multimeter.png)
     ![multi](gpio.png)
 
-    | 🟠 ✅   Did you write voltages down on the ```dated``` page of your Workshop Notebook ??  |
-    |-----------------------------------------|
+    🟠 ✅   Did you write voltages down on the ```dated``` page of your Workshop Notebook ??
     
 ### Step 2. Let's create our first Raspberry PI Jupyter Notebook in JupyterLab
 
@@ -45,6 +44,11 @@
     ````
     ![wire1](photoname1.jpg)
     ````
+1. Let's learn about using a ```breadboard``` to make ```solderless``` electronic circuits. 
+
+    ![bb1](breadboard.jpg)
+    ![bb21](solderless.jpg)
+
 1. Wire-up your RPI following your own hand-drawn diagram. Note LED +lead should be connected to GPIO4. The other (-ve) lead of the LED can be directly connected to the ground via the -ve rail of the breadboard.
 
     ![led1](circ1_led.png)
