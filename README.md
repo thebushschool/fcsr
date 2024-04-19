@@ -78,17 +78,17 @@ id|Project Type|Status|Topic Description
 
 Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
-1| Project|🟤 NOT FORMED|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| Project|🟤 NOT FORMED|[bupi2](http://bupi3)|[http://bupi2:8081](http://bupi2:8081)
-3| Project|🟤 NOT FORMED|[bupi3](http://bupi4)|[http://bupi3:8081](http://bupi3:8081)
-4| Project|🟤 NOT FORMED|[bupi4](http://bupi5)|[http://bupi4:8081](http://bupi4:8081)
+1| Project|🟢 FORMED|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
+2| Project|🟢 FORMED|[bupi3](http://bupi3)|[http://bupi2:8081](http://bupi3:8081)
+3| Project|🟢 FORMED|[bupi4](http://bupi4)|[http://bupi3:8081](http://bupi4:8081)
+4| Project|🟢 FORMED|[bupi5](http://bupi5)|[http://bupi4:8081](http://bupi5:8081)
 
 
 ## Spectroscope Project Teams
 
 Team|Team Type|Members|JupyterLab Host
 :---|:---|:---|:---
-1| Final Project|🟤 NOT FORMED|[http://bupi1:8081](http://bupi5:8081)
-2| Final Project|🟤 NOT FORMED|[http://bupi3:8081](http://bupi6:8081)
-3| Final Project|🟤 NOT FORMED|[http://bupi4:8081](http://bupi5:8081)
-4| Final Project|🟤 NOT FORMED|[http://bupi5:8081](http://bupi6:8081)
+1| Final Project|🟢 FORMED|[http://bupi1:8081](http://bupi1:8081)
+2| Final Project|🟢 FORMED|[http://bupi3:8081](http://bupi3:8081)
+3| Final Project|🟢 FORMED|[http://bupi4:8081](http://bupi4:8081)
+4| Final Project|🟢 FORMED|[http://bupi5:8081](http://bupi5:8081)
