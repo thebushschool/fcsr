@@ -67,34 +67,28 @@ id|Project Type|Status|Topic Description
 2|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
 3|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Normal Distributions</a>
 4|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">PI Day Project - Calculate PI by throwing Darts!</a>
-5|Project|🟡 IN WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-6|Classwork|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
+5|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
+6|Classwork|🟡 IN WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
 7|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
 8|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
-9|Classwork|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/python_deep_dive" target="_blank">A deeper dive into Python Programming</a>
-10| Project|🎉 🔵 NOT STARTED FINAL Project 1.|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
-11| Portfolio|🎉 🔵 NOT STARTED FINAL Project 2. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
+9| Portfolio|🎉 🔵 NOT STARTED FINAL Project. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
+10| OPTIONAL Project|🎉 🔵 NOT STARTED FINAL Project Alternative.|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
 
 ## Raspberry PI Project Teams
 
 Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
 1| Project|🟤 NOT FORMED|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| Project|🟤 NOT FORMED|[bupi2](http://bupi2)|[http://bupi2:8081](http://bupi2:8081)
-3| Project|🟤 NOT FORMED|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
-4| Project|🟤 NOT FORMED|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+2| Project|🟤 NOT FORMED|[bupi2](http://bupi3)|[http://bupi2:8081](http://bupi2:8081)
+3| Project|🟤 NOT FORMED|[bupi3](http://bupi4)|[http://bupi3:8081](http://bupi3:8081)
+4| Project|🟤 NOT FORMED|[bupi4](http://bupi5)|[http://bupi4:8081](http://bupi4:8081)
 
-## Autonomous Car Project Teams
-
-Team|Team Type|Members|JupyterLab Host
-:---|:---|:---|:---
-1| Final Project|🟤 NOT FORMED|[http://bupiX:8181](http://bupiX:8181)
-2| Final Project|🟤 NOT FORMED|[http://bupiX:8181](http://bupiX:8181)
-3| Senior Project|🟤 NOT FORMED|[http://bupiX:8181](http://bupiX:8181)
 
 ## Spectroscope Project Teams
 
 Team|Team Type|Members|JupyterLab Host
 :---|:---|:---|:---
-1| Final Project|🟤 NOT FORMED|[http://bupi5:8081](http://bupi5:8081)
-2| Final Project|🟤 NOT FORMED|[http://bupi6:8081](http://bupi6:8081)
+1| Final Project|🟤 NOT FORMED|[http://bupi1:8081](http://bupi5:8081)
+2| Final Project|🟤 NOT FORMED|[http://bupi3:8081](http://bupi6:8081)
+3| Final Project|🟤 NOT FORMED|[http://bupi4:8081](http://bupi5:8081)
+4| Final Project|🟤 NOT FORMED|[http://bupi5:8081](http://bupi6:8081)
