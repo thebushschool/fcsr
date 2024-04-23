@@ -74,21 +74,12 @@ id|Project Type|Status|Topic Description
 9| Portfolio|🎉 🔵 NOT STARTED FINAL Project. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
 10| OPTIONAL Project|🎉 🔵 NOT STARTED FINAL Project Alternative.|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_car" target="_blank">Build an autonomous self-driving smart car to Avoid Obstacles</a>
 
-## Raspberry PI Project Teams
+## Raspberry PI & Spectroscope Project Teams
 
 Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
-1| Project|🟢 FORMED|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| Project|🟢 FORMED|[bupi3](http://bupi3)|[http://bupi2:8081](http://bupi3:8081)
-3| Project|🟢 FORMED|[bupi4](http://bupi4)|[http://bupi3:8081](http://bupi4:8081)
-4| Project|🟢 FORMED|[bupi5](http://bupi5)|[http://bupi4:8081](http://bupi5:8081)
+1| Project|🟢 Kirubel, Masha, Miles, Smaranda|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
+2| Project|🟢 Anisha, Eli, Kate, Penelope|[bupi3](http://bupi3)|[http://bupi2:8081](http://bupi3:8081)
+3| Project|🟢 Evelyn, Julia, Kylee, Penelope|[bupi4](http://bupi4)|[http://bupi3:8081](http://bupi4:8081)
+4| Project|🟢 Leo, Rhys, Sabrina, Sanvi|[bupi5](http://bupi5)|[http://bupi4:8081](http://bupi5:8081)
 
-
-## Spectroscope Project Teams
-
-Team|Team Type|Members|JupyterLab Host
-:---|:---|:---|:---
-1| Final Project|🟢 FORMED|[http://bupi1:8081](http://bupi1:8081)
-2| Final Project|🟢 FORMED|[http://bupi3:8081](http://bupi3:8081)
-3| Final Project|🟢 FORMED|[http://bupi4:8081](http://bupi4:8081)
-4| Final Project|🟢 FORMED|[http://bupi5:8081](http://bupi5:8081)
