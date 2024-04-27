@@ -79,7 +79,7 @@ id|Project Type|Status|Topic Description
 Team|Team Type|Members|Web Host|JupyterLab Host
 :---|:---|:---|:---|:---
 1| Project|🟢 Kirubel, Masha, Miles, Smaranda|[bupi1](http://bupi1)|[http://bupi1:8081](http://bupi1:8081)
-2| Project|🟢 Anisha, Eli, Kate, Penelope|[bupi3](http://bupi3)|[http://bupi2:8081](http://bupi3:8081)
-3| Project|🟢 Evelyn, Julia, Kylee, Penelope|[bupi4](http://bupi4)|[http://bupi3:8081](http://bupi4:8081)
-4| Project|🟢 Leo, Rhys, Sabrina, Sanvi|[bupi5](http://bupi5)|[http://bupi4:8081](http://bupi5:8081)
+2| Project|🟢 Anisha, Eli, Kate, Penelope|[bupi3](http://bupi3)|[http://bupi3:8081](http://bupi3:8081)
+3| Project|🟢 Evelyn, Julia, Kylee, Penelope|[bupi4](http://bupi4)|[http://bupi4:8081](http://bupi4:8081)
+4| Project|🟢 Leo, Rhys, Sabrina, Sanvi|[bupi5](http://bupi5)|[http://bupi5:8081](http://bupi5:8081)
 
