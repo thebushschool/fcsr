@@ -73,5 +73,12 @@ Pictures are worth a thousand words, so I am not going to write a thousand words
 
     🟠 ✅  Your job is to get the LED matrix to display the test patterns
 
-    🟠 ✅  ***Congratulations!!  You finished this lab***
+1. Here is a different [a dynamic example of neopixel animations](nat.ipynb) that you can use to complete this project.
 
+    🟠 ✅  Did you hand-draw your led patterns and upload to the ```neopixel_testing.ipynb``` notebook?.
+    
+    🟠 ✅  ***If you see errors STOP and debug***. Do not proceed without fixing them.
+
+    🟠 ✅  Your job is to get the LED matrix to display the test patterns
+
+    🟠 ✅  ***Congratulations!!  You finished this lab***
