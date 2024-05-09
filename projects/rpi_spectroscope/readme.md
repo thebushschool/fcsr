@@ -11,7 +11,7 @@ In this project we will start by studying the science of Spectroscopy and use yo
 ![4295](IMG_4295.png)
 ![4296](IMG_4296.png)
 ![4331](IMG_4331.png)
-1. [Access and modify materials for this project in JupyterLab by clicking here](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Ffcsr&branch=gh-pages&urlpath=lab%2Ftree%2Ffcsr%2Fprojects%2Frpi_spectroscope%2Frpi_spectroscope.ipynb?reset)
+
 1. Download and copy to your student folder on your spectroscope these files 
      * [truetype font Lato](bds/V5/Lato-Regular.ttf)
      * [bdsproj notebook V5](bds/V5/bdsprojv5.ipynb)
