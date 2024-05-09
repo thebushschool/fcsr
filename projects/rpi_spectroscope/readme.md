@@ -23,3 +23,5 @@ In this project we will start by studying the science of Spectroscopy and use yo
      * [cfls table](bds/V5/cfls_table.png)
      
 1. Then ```Drag & Drop``` these 8 files from your laptop to your own student folder on your spectroscope's raspberry pi
+
+1. Finally, we will ```Double Click``` on the ```bdsprojv5.ipynb``` to run the Jupyter notebook on the spectroscope you built. Please remember that only one person at a time can run their own version of the Jupyter Notebook.  Carefully read instructions before you run each cell of the notebook.  We will walkthrough this notebook in class before you attempt to do so!
