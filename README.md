@@ -68,9 +68,9 @@ id|Project Type|Status|Topic Description
 3|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Normal Distributions</a>
 4|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">PI Day Project - Calculate PI by throwing Darts!</a>
 5|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-6|Classwork|🟡 IN WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
-7|Project|🟤 UP NEXT|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
-8|Project|🔵 NOT STARTED|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
+6|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
+7|Project|🟤 CANCELED|<a href="https://chandrunarayan.github.io/fcsr/projects/selfie_booth" target="_blank">Build a Selfie Booth with a rPI Camera & Python</a>
+8|Project|🟡 IN WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">Integrate Dart Board PI with your Pixel Board to compute PI</a>
 9| Portfolio|🎉 🔵 NOT STARTED FINAL Project. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
 
 ## Raspberry PI & Spectroscope Project Teams
