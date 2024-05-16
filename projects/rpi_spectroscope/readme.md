@@ -13,7 +13,7 @@ In this project we will start by studying the science of Spectroscopy and use yo
 ![4331](IMG_4331.png)
 
 1. ```Right-Click on each item and save link as``` to download these 10 files to your Downloads folder on your own laptop.
-     * [truetype font Lato](bds/V5/test_camera.ipynb)
+     * [test camera notebook](bds/V5/test_camera.ipynb)
      * [truetype font Lato](bds/V5/Lato-Regular.ttf)
      * [bdsproj notebook V5](bds/V5/bdsprojv5.ipynb)
      * [bdslib notebook V5](bds/V5/bdslibv5.ipynb)
