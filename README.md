@@ -1,4 +1,4 @@
-## ***Bush Fundamentals of Computing*** (FCSR) class Spring 2024 
+## ***Bush School Fundamentals of Computing*** (FCSR) class Spring 2024 
 #### taught by *Chandru Narayan*
 
 ### Welcome to the ***Fun(damentals) of Computing course!***
@@ -44,7 +44,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```fcsr``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```fcsrchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, please email me at chandru.narayan@bush.edu, I will reset it.
 
-## ***[Login to Bush JupyterHub here to validate](https://bushastrolab.com/hub/login)***
+## ***[Login to Bush JupyterHub here to validate](http://cedvm.zapto.org/hub/login)***
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
@@ -62,15 +62,15 @@ Please click on the "zeroth" project link below to get started on your assigned 
 
 id|Project Type|Status|Topic Description
 :---|:---|:---|:---
-0|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
-1|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to JupyterLab and Markdown</a>
-2|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
-3|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Normal Distributions</a>
-4|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/dart_board_pi" target="_blank">PI Day Project - Calculate PI by throwing Darts!</a>
-5|Project|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
-6|Classwork|🟢 COMPLETE|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
-7|Teacher Demo|🟡 IN-WORK|<a href="https://chandrunarayan.github.io/fcsr/projects/fibonacci" target="_blank">Write Python code to display Fibonacci Numbers</a>
-8| Portfolio|🎉 🟡 IN-WORK FINAL Project. Seniors doing Senior Projects are Exempt|<a href="https://chandrunarayan.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
+0|Classwork|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/intro_to_fcsr" target="_blank">FCSR Course Introduction</a>
+1|Classwork|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/intro_to_jupyter" target="_blank">Introduction to JupyterLab and Markdown</a>
+2|Project|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/intro_to_python" target="_blank">Introduction to Python & Plotting</a>
+3|Project|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/galton_board" target="_blank">Galton Board - Pascal's Triangle - Normal Distributions</a>
+4|Project|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/dart_board_pi" target="_blank">PI Day Project - Calculate PI by throwing Darts!</a>
+5|Project|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/intro_to_rpi" target="_blank">Intro to Raspberry PI (rPI)</a>
+6|Classwork|🟢 COMPLETE|<a href="https://thebushschool.github.io/fcsr/projects/rpi_led_string" target="_blank">Build LED Matrix and Program Patterns in Python</a>
+7|Teacher Demo|🟡 IN-WORK|<a href="https://thebushschool.github.io/fcsr/projects/fibonacci" target="_blank">Write Python code to display Fibonacci Numbers</a>
+8| Portfolio|🎉 🟡 IN-WORK FINAL Project. Seniors doing Senior Projects are Exempt|<a href="https://thebushschool.github.io/fcsr/projects/rpi_spectroscope" target="_blank">Build a rPI spectroscope to capture and measure emission spectra of elements</a>
 
 ## Raspberry PI & Spectroscope Project Teams
 

@@ -1,11 +1,11 @@
 # A deeper dive into Python with Neopixels, Camera, Buttons and Motion Sensors
-1. [Learn Python Step by Step using Button Actions and Neopixels](https://chandrunarayan.github.io/fcsr/projects/python_deep_dive/python_step_by_step.ipynb)
+1. [Learn Python Step by Step using Button Actions and Neopixels](https://thebushschool.github.io/fcsr/projects/python_deep_dive/python_step_by_step.ipynb)
     1. Click link above to download Notebook
     1. Rename by adding your name to the front
     1. Then drag it into your rPI's JupyterLab
     1. Make the instructed Modifications
     1. Test it!
-1. [Learn Python Step by Step using Camera and Motion Sensing](https://chandrunarayan.github.io/fcsr/projects/python_deep_dive/python_step_by_step2.ipynb)
+1. [Learn Python Step by Step using Camera and Motion Sensing](https://thebushschool.github.io/fcsr/projects/python_deep_dive/python_step_by_step2.ipynb)
     1. Click link above to download Notebook
     1. Rename by adding your name to the front
     1. Then drag it into your rPI's JupyterLab
